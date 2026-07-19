@@ -1,6 +1,6 @@
 {
  "formato": "adegapdv-fornecedores-v1",
- "versao": 2,
+ "versao": 4,
  "dataVarredura": "2026-07-19",
  "fornecedores": [
   {
@@ -1586,16 +1586,56 @@
    "site": "https://www.tendaatacado.com.br",
    "cnpj": null,
    "obs": "Preço público no site (informando o CEP); entrega ou Clique & Retire."
+  },
+  {
+   "nome": "Atacadão (site, região de Cotia)",
+   "cidade": "Região (delivery)",
+   "tipo": "atacarejo",
+   "confianca": "alta",
+   "endereco": null,
+   "telefone": null,
+   "site": "https://www.atacadao.com.br",
+   "cnpj": null,
+   "obs": "Preços do site para o CEP da adega (lojas Cotia Centro, Cotia Raposo Km 21, Jandira, Barueri e Itapevi). Confira no balcão antes de fechar."
   }
  ],
  "cotacoes": [
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "51 Ice Long Neck 275ml",
+   "preco": 499,
+   "unidade": "Bebida 51 Ice 275ml (sabores variados)",
+   "fonteUrl": "https://www.atacadao.com.br/bebida-51-ice-limao-54737/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Água Mineral com Gás 500ml",
+   "preco": 219,
+   "unidade": "Agua Mineral Crystal Com gas 500ml",
+   "fonteUrl": "https://www.atacadao.com.br/agua-mineral-crystal-com-gas-30723/p",
+   "cotadoEm": "2026-07-19"
+  },
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Água Mineral com Gás 500ml",
    "preco": 215,
-   "unidade": "Água Mineral com Gás Crystal 500ml (R$ 1,95/un a partir de 6)",
+   "unidade": "Água Mineral com Gás Crystal 500ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-com-gas-crystal-500ml-6988",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 195,
+   "atacadoMin": 6
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Água Mineral sem Gás 500ml",
+   "preco": 219,
+   "unidade": "Agua Mineral Crystal Sem gas 500ml",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1603,8 +1643,19 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Água Mineral sem Gás 500ml",
    "preco": 215,
-   "unidade": "Água Mineral sem Gás Crystal 500ml (R$ 1,95/un a partir de 6)",
+   "unidade": "Água Mineral sem Gás Crystal 500ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-sem-gas-crystal-500ml-3214",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 195,
+   "atacadoMin": 6
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Água Tônica Antarctica Lata 350ml",
+   "preco": 369,
+   "unidade": "Agua Tonica Antarctica 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/agua-tonica-antarctica-12440/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1617,21 +1668,43 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Amstel Lata 350ml",
+   "preco": 369,
+   "unidade": "Cerveja Amstel Sleek 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-amstel-sleek-86708/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Amstel Lata 350ml",
    "preco": 409,
-   "unidade": "Cerveja Amstel Lata 350ml (R$ 3,59/un a partir de 6)",
+   "unidade": "Cerveja Amstel Lata 350ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-amstel-lata-350ml",
-   "cotadoEm": "2026-07-19"
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 359,
+   "atacadoMin": 6
   },
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Antarctica Original Garrafa 600ml",
    "preco": 1099,
-   "unidade": "Cerveja Pilsen Original Antarctica 600ml (R$ 9,99/un a partir de 3)",
+   "unidade": "Cerveja Pilsen Original Antarctica 600ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-antarctica-original-600ml-3459",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 999,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Antarctica Pilsen Lata 350ml",
+   "preco": 329,
+   "unidade": "Cerveja Antarctica 350ml",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1644,12 +1717,30 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Baly Energético 2L",
+   "preco": 1190,
+   "unidade": "Energetico Baly Tradicional 2L",
+   "fonteUrl": "https://www.atacadao.com.br",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Baly Energético 2L",
    "preco": 999,
    "unidade": "Energético Melancia Baly 2L",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-melancia-baly-2l",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Brahma Chopp Lata 350ml",
+   "preco": 329,
+   "unidade": "Cerveja Brahma Chopp 350ml",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1662,6 +1753,15 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Brahma Duplo Malte Lata 350ml",
+   "preco": 426,
+   "unidade": "Cerveja Brahma Duplo Malte 350ml",
+   "fonteUrl": "https://www.atacadao.com.br",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Brahma Duplo Malte Lata 350ml",
@@ -1671,12 +1771,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Brahma Malzbier Lata 350ml",
+   "preco": 559,
+   "unidade": "Cerveja Brahma Malzbier 350ml",
+   "fonteUrl": "https://www.atacadao.com.br",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Brahma Malzbier Lata 350ml",
    "preco": 569,
-   "unidade": "Cerveja Escura Malzbier Brahma 350ml (R$ 5,19/un a partir de 6)",
+   "unidade": "Cerveja Escura Malzbier Brahma 350ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-escura-malzbier-brahma-350ml",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 519,
+   "atacadoMin": 6
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Budweiser Long Neck 330ml",
+   "preco": 649,
+   "unidade": "Cerveja Budweiser 330ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-budweiser-62237/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1689,12 +1809,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Cachaça 51 965ml",
+   "preco": 1390,
+   "unidade": "Cachaca 51 Com casco 965ml",
+   "fonteUrl": "https://www.atacadao.com.br",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Cachaça 51 965ml",
    "preco": 1285,
-   "unidade": "Aguardente 51 Pirassununga 965ml (R$ 11,85/un a partir de 3)",
+   "unidade": "Aguardente 51 Pirassununga 965ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-51-pirassununga-965ml-236",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 1185,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Cachaça Pitú 970ml",
+   "preco": 1099,
+   "unidade": "Cachaca Pitu Com casco 965ml",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1702,8 +1842,19 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Cachaça Pitú 970ml",
    "preco": 1530,
-   "unidade": "Aguardente Pitú 965ml (R$ 14,30/un a partir de 3)",
+   "unidade": "Aguardente Pitú 965ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-pitu-965ml-33395",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 1430,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Cachaça Velho Barreiro 910ml",
+   "preco": 1590,
+   "unidade": "Cachaca Velho Barreiro 910ml",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1711,8 +1862,19 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Cachaça Velho Barreiro 910ml",
    "preco": 1570,
-   "unidade": "Aguardente Velho Barreiro 910ml (R$ 14,70/un a partir de 3)",
+   "unidade": "Aguardente Velho Barreiro 910ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-velho-barreiro-910ml-1254",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 1470,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Coca-Cola 2L",
+   "preco": 1229,
+   "unidade": "Refrigerante Coca-Cola 2L",
+   "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-pet-com-2l-12380/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1725,12 +1887,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Coca-Cola 600ml",
+   "preco": 457,
+   "unidade": "Refrigerante Coca-Cola Original 600ml",
+   "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-original-6674/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Coca-Cola 600ml",
    "preco": 619,
-   "unidade": "Refrigerante Coca-Cola Original Garrafa 600ml (R$ 5,69/un a partir de 3)",
+   "unidade": "Refrigerante Coca-Cola Original Garrafa 600ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-600ml-947",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 569,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Coca-Cola Lata 350ml",
+   "preco": 419,
+   "unidade": "Refrigerante Coca-Cola 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-lata-com-350ml-7699/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1743,12 +1925,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Conhaque Dreher 900ml",
+   "preco": 1890,
+   "unidade": "Conhaque Dreher 900ml",
+   "fonteUrl": "https://www.atacadao.com.br/conhaque-dreher-2417/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Conhaque Dreher 900ml",
    "preco": 1950,
-   "unidade": "Conhaque Dreher 900ml (R$ 17,50/un a partir de 3)",
+   "unidade": "Conhaque Dreher 900ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/conhaque-dreher-900ml-802",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 1750,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corona Extra Long Neck 330ml",
+   "preco": 729,
+   "unidade": "Cerveja Corona Extra 330ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-corona-extra-66884/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1761,12 +1963,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corote Limão 500ml",
+   "preco": 399,
+   "unidade": "Coquetel Corote Limao 500ml",
+   "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-limao-60084/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Corote Limão 500ml",
    "preco": 415,
-   "unidade": "Coquetel Sabor Limão Corote 500ml (R$ 3,65/un a partir de 3)",
+   "unidade": "Coquetel Sabor Limão Corote 500ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-limao-corote-500ml-10819",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 365,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corote Maracujá 500ml",
+   "preco": 399,
+   "unidade": "Coquetel Corote Maracuja 500ml",
+   "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-maracuja-60083/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1774,8 +1996,19 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Corote Maracujá 500ml",
    "preco": 415,
-   "unidade": "Coquetel Sabor Maracujá Corote 500ml (R$ 3,65/un a partir de 3)",
+   "unidade": "Coquetel Sabor Maracujá Corote 500ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-maracuja-corote-500ml-20320",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 365,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corote Morango 500ml",
+   "preco": 399,
+   "unidade": "Coquetel Corote Morango 500ml",
+   "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-morango-57941/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1783,9 +2016,11 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Corote Morango 500ml",
    "preco": 415,
-   "unidade": "Coquetel Sabor Morango Corote 500ml (R$ 3,65/un a partir de 3)",
+   "unidade": "Coquetel Sabor Morango Corote 500ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-morango-corote-500ml-10831",
-   "cotadoEm": "2026-07-19"
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 365,
+   "atacadoMin": 3
   },
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
@@ -1794,6 +2029,15 @@
    "preco": 219,
    "unidade": "Cerveja Pilsen Crystal 350ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-crystal-350ml-2453",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Fanta Laranja 2L",
+   "preco": 990,
+   "unidade": "Refrigerante Fanta Laranja 2L",
+   "fonteUrl": "https://www.atacadao.com.br/refrigerante-fanta-laranja-12588/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1806,12 +2050,30 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Gelo Pacote 5kg",
+   "preco": 1190,
+   "unidade": "Gelo em Cubos K-Gelo 5kg",
+   "fonteUrl": "https://www.atacadao.com.br/gelo-em-cubos-k-gelo-pacote-com-5kg-16997/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Gelo Pacote 5kg",
    "preco": 1150,
    "unidade": "Gelo Cubo Select 5kg",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/gelo-cubo-select-5kg",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Gin Rock's Strawberry 995ml",
+   "preco": 3590,
+   "unidade": "Gin Rock's Strawberry 1L",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1824,12 +2086,30 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Gin Tanqueray 750ml",
+   "preco": 9490,
+   "unidade": "Gin Tanqueray 750ml",
+   "fonteUrl": "https://www.atacadao.com.br/gin-tanqueray-62989/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Gin Tanqueray 750ml",
    "preco": 8990,
    "unidade": "Gin Tanqueray London Dry 750 ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-tanqueray-london-dry-750ml-33099",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Guaraná Antarctica 2L",
+   "preco": 1019,
+   "unidade": "Refrigerante Guarana Antarctica 2L",
+   "fonteUrl": "https://www.atacadao.com.br/refrigerante-guarana-antarctica-19691/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1842,6 +2122,15 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Guaraná Antarctica Lata 350ml",
+   "preco": 359,
+   "unidade": "Refrigerante Guarana Antarctica 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/refrigerante-guarana-antarctica-12454/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Guaraná Antarctica Lata 350ml",
@@ -1851,12 +2140,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Heineken Garrafa 600ml",
+   "preco": 1290,
+   "unidade": "Cerveja Heineken One Way 600ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-one-way-garrafa-com-600ml-45392/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Heineken Garrafa 600ml",
    "preco": 1450,
-   "unidade": "Cerveja Heineken Garrafa 600ml (R$ 13,50/un a partir de 3)",
+   "unidade": "Cerveja Heineken Garrafa 600ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-600ml",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 1350,
+   "atacadoMin": 3
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Heineken Lata 350ml",
+   "preco": 489,
+   "unidade": "Cerveja Heineken Sleek 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-sleek-86733/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1869,12 +2178,32 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Heineken Long Neck 330ml",
+   "preco": 699,
+   "unidade": "Cerveja Heineken 330ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-long-neck-com-330ml-54352/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Heineken Long Neck 330ml",
    "preco": 715,
-   "unidade": "Cerveja Heineken Garrafa 330ml (R$ 6,65/un a partir de 6)",
+   "unidade": "Cerveja Heineken Garrafa 330ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-330ml",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 665,
+   "atacadoMin": 6
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Itaipava Lata 350ml",
+   "preco": 249,
+   "unidade": "Cerveja Itaipava 350ml",
+   "fonteUrl": "https://www.atacadao.com.br",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1887,12 +2216,41 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Monster Energético 473ml",
+   "preco": 929,
+   "unidade": "Energetico Monster Energy 473ml",
+   "fonteUrl": "https://www.atacadao.com.br/energetico-monster-energy-57007/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Monster Energético 473ml",
    "preco": 899,
-   "unidade": "Energético Monster Lata 473ml (R$ 8,29/un a partir de 4)",
+   "unidade": "Energético Monster Lata 473ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-energy-monster-473ml-20585",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 829,
+   "atacadoMin": 4
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Red Bull Energético 250ml",
+   "preco": 829,
+   "unidade": "Energetico Red Bull Energy Drink 250ml",
+   "fonteUrl": "https://www.atacadao.com.br/energetico-red-bull-energy-drink-46736/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Skol Lata 350ml",
+   "preco": 339,
+   "unidade": "Cerveja Skol Pilsen 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-skol-pilsen-18650/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1900,8 +2258,28 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Skol Lata 350ml",
    "preco": 419,
-   "unidade": "Cerveja Pilsen Skol 350ml (R$ 3,69/un a partir de 6)",
+   "unidade": "Cerveja Pilsen Skol 350ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-skol-350ml-421",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 369,
+   "atacadoMin": 6
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Smirnoff Ice Long Neck 275ml",
+   "preco": 749,
+   "unidade": "Bebida Alcoolica Mista Smirnoff Ice Original 275ml",
+   "fonteUrl": "https://www.atacadao.com.br/bebida-alcoolica-mista-smirnoff-ice-60175/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Spaten Lata 350ml",
+   "preco": 389,
+   "unidade": "Cerveja Spaten Puro Malte 350ml",
+   "fonteUrl": "https://www.atacadao.com.br/cerveja-spaten-puro-malte-lata-com-350ml-74632/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1914,6 +2292,15 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Stella Artois Long Neck 330ml",
+   "preco": 659,
+   "unidade": "Cerveja Stella Artois 330ml",
+   "fonteUrl": "https://www.atacadao.com.br",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Stella Artois Long Neck 330ml",
@@ -1923,12 +2310,50 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Suco Del Valle Lata 290ml",
+   "preco": 399,
+   "unidade": "Suco Del Valle 290ml (sabores variados)",
+   "fonteUrl": "https://www.atacadao.com.br/suco-del-valle-mais-uva-57855/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vinho Pérgola Tinto Suave 1L",
+   "preco": 2890,
+   "unidade": "Vinho Pergola Tinto Suave 1L",
+   "fonteUrl": "https://www.atacadao.com.br/vinho-tinto-pergola-suave-2645/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Vinho Pérgola Tinto Suave 1L",
    "preco": 2990,
-   "unidade": "Vinho Tinto Suave Pérgola 1L (R$ 26,90/un a partir de 2)",
+   "unidade": "Vinho Tinto Suave Pérgola 1L",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/vinho-tinto-suave-pergola-1l-7543",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 2690,
+   "atacadoMin": 2
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vinho Quinta do Morgado Tinto Suave 750ml",
+   "preco": 1790,
+   "unidade": "Vinho Quinta do Morgado Tinto Suave 750ml",
+   "fonteUrl": "https://www.atacadao.com.br/vinho-quinta-do-morgado-tinto-suave-35295/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vodka Askov 900ml",
+   "preco": 1990,
+   "unidade": "Vodka Askov Tridestilada 900ml",
+   "fonteUrl": "https://www.atacadao.com.br/vodka-askov-tridestilada-53958/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1936,8 +2361,19 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Vodka Askov 900ml",
    "preco": 1990,
-   "unidade": "Vodka Askov 900ml (R$ 17,90/un a partir de 2)",
+   "unidade": "Vodka Askov 900ml",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-askov-900ml-2715",
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 1790,
+   "atacadoMin": 2
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vodka Smirnoff 998ml",
+   "preco": 3290,
+   "unidade": "Vodka Smirnoff 998ml",
+   "fonteUrl": "https://www.atacadao.com.br/vodka-smirnoff-7823/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1950,12 +2386,30 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Whisky Passport 1L",
+   "preco": 5580,
+   "unidade": "Whisky Passport 1L",
+   "fonteUrl": "https://www.atacadao.com.br/whisky-passport-1778/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Whisky Passport 1L",
    "preco": 4999,
    "unidade": "Whisky Escocês Passport Scotch 1L",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-passport-1l-132",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Whisky Red Label 1L",
+   "preco": 7990,
+   "unidade": "Whisky Johnnie Walker Red Label 1L",
+   "fonteUrl": "https://www.atacadao.com.br/whisky-johnnie-walker-red-label-garrafa-com-1l-3144/p",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1968,13 +2422,24 @@
    "cotadoEm": "2026-07-19"
   },
   {
+   "fornecedorNome": "Atacadão (site, região de Cotia)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Whisky White Horse 1L",
+   "preco": 6980,
+   "unidade": "Whisky White Horse 1L",
+   "fonteUrl": "https://www.atacadao.com.br/whisky-white-horse-9078/p",
+   "cotadoEm": "2026-07-19"
+  },
+  {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Whisky White Horse 1L",
    "preco": 7990,
-   "unidade": "Whisky Escocês White Horse 1L (R$ 74,90/un a partir de 2)",
+   "unidade": "Whisky Escocês White Horse 1L",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-white-horse-1l-6385",
-   "cotadoEm": "2026-07-19"
+   "cotadoEm": "2026-07-19",
+   "precoAtacado": 7490,
+   "atacadoMin": 2
   }
  ]
 }
