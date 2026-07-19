@@ -1,6 +1,6 @@
 {
  "formato": "adegapdv-fornecedores-v1",
- "versao": 1,
+ "versao": 2,
  "dataVarredura": "2026-07-19",
  "fornecedores": [
   {
@@ -1592,55 +1592,10 @@
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Skol Lata 350ml",
-   "preco": 419,
-   "unidade": "lata 350ml (R$ 3,69/un a partir de 6)",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-skol-350ml-421",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Duplo Malte Lata 350ml",
-   "preco": 449,
-   "unidade": "lata 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-duplo-malte-puro-malte-350ml-lata",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Long Neck 330ml",
-   "preco": 715,
-   "unidade": "garrafa 330ml (R$ 6,65/un a partir de 6)",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-330ml",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corona Extra Long Neck 330ml",
-   "preco": 749,
-   "unidade": "garrafa 330ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-corona-extra-330ml-long-neck",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola 2L",
-   "preco": 1190,
-   "unidade": "garrafa 2L (versão Original menos açúcar)",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-original-garrafa-2l",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Guaraná Antarctica 2L",
-   "preco": 949,
-   "unidade": "garrafa 2L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-2l-618",
+   "produtoNome": "Água Mineral com Gás 500ml",
+   "preco": 215,
+   "unidade": "Água Mineral com Gás Crystal 500ml (R$ 1,95/un a partir de 6)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-com-gas-crystal-500ml-6988",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1648,35 +1603,26 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Água Mineral sem Gás 500ml",
    "preco": 215,
-   "unidade": "Crystal 500ml (R$ 1,95/un a partir de 6)",
+   "unidade": "Água Mineral sem Gás Crystal 500ml (R$ 1,95/un a partir de 6)",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-sem-gas-crystal-500ml-3214",
    "cotadoEm": "2026-07-19"
   },
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Red Bull Energético 250ml",
-   "preco": 849,
-   "unidade": "lata 250ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-red-bull-250ml-1020",
+   "produtoNome": "Água Tônica Antarctica Lata 350ml",
+   "preco": 349,
+   "unidade": "Água Tônica Antarctica 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-tonica-antarctica-350ml-616",
    "cotadoEm": "2026-07-19"
   },
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça 51 965ml",
-   "preco": 1285,
-   "unidade": "garrafa 965ml (R$ 11,85/un a partir de 3)",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-51-pirassununga-965ml-236",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vodka Smirnoff 998ml",
-   "preco": 3290,
-   "unidade": "garrafa 998ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-smirnoff-998ml-1755",
+   "produtoNome": "Amstel Lata 350ml",
+   "preco": 409,
+   "unidade": "Cerveja Amstel Lata 350ml (R$ 3,59/un a partir de 6)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-amstel-lata-350ml",
    "cotadoEm": "2026-07-19"
   },
   {
@@ -1684,17 +1630,350 @@
    "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Antarctica Original Garrafa 600ml",
    "preco": 1099,
-   "unidade": "garrafa 600ml (R$ 9,99/un a partir de 3)",
+   "unidade": "Cerveja Pilsen Original Antarctica 600ml (R$ 9,99/un a partir de 3)",
    "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-antarctica-original-600ml-3459",
    "cotadoEm": "2026-07-19"
   },
   {
    "fornecedorNome": "Tenda Atacado (site, entrega na região)",
    "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Antarctica Pilsen Lata 350ml",
+   "preco": 319,
+   "unidade": "Cerveja Pilsen Antarctica Lata 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-antarctica-pilsen-350ml-lata",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Baly Energético 2L",
+   "preco": 999,
+   "unidade": "Energético Melancia Baly 2L",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-melancia-baly-2l",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Brahma Chopp Lata 350ml",
+   "preco": 369,
+   "unidade": "Cerveja Brahma Chopp Pilsen 350ml Lata",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-chopp-pilsen-350ml-lata",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Brahma Duplo Malte Lata 350ml",
+   "preco": 449,
+   "unidade": "Cerveja Brahma Duplo Malte Puro Malte 350ml Lata",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-duplo-malte-puro-malte-350ml-lata",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Brahma Malzbier Lata 350ml",
+   "preco": 569,
+   "unidade": "Cerveja Escura Malzbier Brahma 350ml (R$ 5,19/un a partir de 6)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-escura-malzbier-brahma-350ml",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Budweiser Long Neck 330ml",
+   "preco": 619,
+   "unidade": "Cerveja Budweiser American Lager 330ml Long Neck",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-budweiser-american-lager-330ml-long-neck",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Cachaça 51 965ml",
+   "preco": 1285,
+   "unidade": "Aguardente 51 Pirassununga 965ml (R$ 11,85/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-51-pirassununga-965ml-236",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Cachaça Pitú 970ml",
+   "preco": 1530,
+   "unidade": "Aguardente Pitú 965ml (R$ 14,30/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-pitu-965ml-33395",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Cachaça Velho Barreiro 910ml",
+   "preco": 1570,
+   "unidade": "Aguardente Velho Barreiro 910ml (R$ 14,70/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-velho-barreiro-910ml-1254",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Coca-Cola 2L",
+   "preco": 1190,
+   "unidade": "Refrigerante Original Menos Açúcar Coca-Cola Garrafa 2l",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-original-garrafa-2l",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Coca-Cola 600ml",
+   "preco": 619,
+   "unidade": "Refrigerante Coca-Cola Original Garrafa 600ml (R$ 5,69/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-600ml-947",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Coca-Cola Lata 350ml",
+   "preco": 419,
+   "unidade": "Refrigerante Coca-Cola 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-350ml-552",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Conhaque Dreher 900ml",
+   "preco": 1950,
+   "unidade": "Conhaque Dreher 900ml (R$ 17,50/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/conhaque-dreher-900ml-802",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corona Extra Long Neck 330ml",
+   "preco": 749,
+   "unidade": "Cerveja Corona Extra 330ml Long Neck",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-corona-extra-330ml-long-neck",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
    "produtoNome": "Corote Limão 500ml",
+   "preco": 415,
+   "unidade": "Coquetel Sabor Limão Corote 500ml (R$ 3,65/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-limao-corote-500ml-10819",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corote Maracujá 500ml",
+   "preco": 415,
+   "unidade": "Coquetel Sabor Maracujá Corote 500ml (R$ 3,65/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-maracuja-corote-500ml-20320",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Corote Morango 500ml",
+   "preco": 415,
+   "unidade": "Coquetel Sabor Morango Corote 500ml (R$ 3,65/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-morango-corote-500ml-10831",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Crystal Lata 350ml",
+   "preco": 219,
+   "unidade": "Cerveja Pilsen Crystal 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-crystal-350ml-2453",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Fanta Laranja 2L",
+   "preco": 949,
+   "unidade": "Refrigerante Laranja Fanta Garrafa 2l",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-sabor-laranja-fanta-2l-322",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Gelo Pacote 5kg",
+   "preco": 1150,
+   "unidade": "Gelo Cubo Select 5kg",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/gelo-cubo-select-5kg",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Gin Rock's Strawberry 995ml",
+   "preco": 2599,
+   "unidade": "Gin Stramberry Rocks 995ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-stramberry-rocks-garrafa-995ml",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Gin Tanqueray 750ml",
+   "preco": 8990,
+   "unidade": "Gin Tanqueray London Dry 750 ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-tanqueray-london-dry-750ml-33099",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Guaraná Antarctica 2L",
+   "preco": 949,
+   "unidade": "Refrigerante Guaraná Antarctica 2L",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-2l-618",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Guaraná Antarctica Lata 350ml",
    "preco": 349,
-   "unidade": "500ml (preço do site p/ Corote, sabores variados)",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-corote-500ml-2747",
+   "unidade": "Refrigerante Guaraná Antarctica 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-350ml-1193",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Heineken Garrafa 600ml",
+   "preco": 1450,
+   "unidade": "Cerveja Heineken Garrafa 600ml (R$ 13,50/un a partir de 3)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-600ml",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Heineken Lata 350ml",
+   "preco": 520,
+   "unidade": "Cerveja Heineken Lata Sleek 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-lata-350ml",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Heineken Long Neck 330ml",
+   "preco": 715,
+   "unidade": "Cerveja Heineken Garrafa 330ml (R$ 6,65/un a partir de 6)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-330ml",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Itaipava Lata 350ml",
+   "preco": 279,
+   "unidade": "Cerveja Pilsen Itaipava 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-itaipava-350ml-1303",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Monster Energético 473ml",
+   "preco": 899,
+   "unidade": "Energético Monster Lata 473ml (R$ 8,29/un a partir de 4)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-energy-monster-473ml-20585",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Skol Lata 350ml",
+   "preco": 419,
+   "unidade": "Cerveja Pilsen Skol 350ml (R$ 3,69/un a partir de 6)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-skol-350ml-421",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Spaten Lata 350ml",
+   "preco": 489,
+   "unidade": "Cerveja Puro Malte Munich Helles Spaten Lata 350ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-puro-malte-munich-helles-spaten-lata-350ml",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Stella Artois Long Neck 330ml",
+   "preco": 629,
+   "unidade": "Cerveja Stella Artois Puro Malte 330ml Long Neck",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-stella-artois-puro-malte-330ml-long-neck",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vinho Pérgola Tinto Suave 1L",
+   "preco": 2990,
+   "unidade": "Vinho Tinto Suave Pérgola 1L (R$ 26,90/un a partir de 2)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/vinho-tinto-suave-pergola-1l-7543",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vodka Askov 900ml",
+   "preco": 1990,
+   "unidade": "Vodka Askov 900ml (R$ 17,90/un a partir de 2)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-askov-900ml-2715",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Vodka Smirnoff 998ml",
+   "preco": 3290,
+   "unidade": "Vodka Smirnoff 998ml",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-smirnoff-998ml-1755",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Whisky Passport 1L",
+   "preco": 4999,
+   "unidade": "Whisky Escocês Passport Scotch 1L",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-passport-1l-132",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Whisky Red Label 1L",
+   "preco": 7990,
+   "unidade": "Whisky Escocês Red Label Johnnie Walker 1L",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-red-label-johnnie-walker-1l-417",
+   "cotadoEm": "2026-07-19"
+  },
+  {
+   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+   "fornecedorCidade": "Região (delivery)",
+   "produtoNome": "Whisky White Horse 1L",
+   "preco": 7990,
+   "unidade": "Whisky Escocês White Horse 1L (R$ 74,90/un a partir de 2)",
+   "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-white-horse-1l-6385",
    "cotadoEm": "2026-07-19"
   }
  ]
