@@ -1,6 +1,6 @@
 {
   "formato": "adegapdv-fornecedores-v1",
-  "versao": 5,
+  "versao": 6,
   "dataVarredura": "2026-07-19",
   "fornecedores": [
     {
@@ -191,17 +191,6 @@
       "obs": "Nicho de chope e locação de equipamentos."
     },
     {
-      "nome": "LM Bebidas (Adega LM)",
-      "cidade": "Cotia",
-      "tipo": "deposito",
-      "confianca": "baixa",
-      "endereco": "Estrada do Lutero, 65, Paisagem Renoir",
-      "telefone": null,
-      "site": "https://www.instagram.com/adega_lm7/",
-      "cnpj": null,
-      "obs": "Endereço só numa fonte; cruzamento não confirmado."
-    },
-    {
       "nome": "Distribuidor de Água Mineral",
       "cidade": "Cotia",
       "tipo": "deposito",
@@ -224,17 +213,6 @@
       "obs": "Só diretório."
     },
     {
-      "nome": "Bar e Mercearia Tomé-Sou",
-      "cidade": "Cotia",
-      "tipo": "deposito",
-      "confianca": "baixa",
-      "endereco": "Jardim Araruama",
-      "telefone": null,
-      "site": null,
-      "cnpj": null,
-      "obs": "Parece bar/mercearia, não necessariamente atacadista."
-    },
-    {
       "nome": "Esquadrão Bebidas (Lúpulo Azul)",
       "cidade": "Cotia",
       "tipo": "deposito",
@@ -255,50 +233,6 @@
       "site": null,
       "cnpj": null,
       "obs": "Nicho de cachaça."
-    },
-    {
-      "nome": "Adega House Beer JP",
-      "cidade": "Cotia",
-      "tipo": "deposito",
-      "confianca": "baixa",
-      "endereco": "Jardim Sandra",
-      "telefone": null,
-      "site": null,
-      "cnpj": null,
-      "obs": "Só diretório."
-    },
-    {
-      "nome": "Adega Rio Cotia",
-      "cidade": "Cotia",
-      "tipo": "deposito",
-      "confianca": "baixa",
-      "endereco": null,
-      "telefone": null,
-      "site": null,
-      "cnpj": null,
-      "obs": "Só diretório."
-    },
-    {
-      "nome": "Adega Nova Cotia",
-      "cidade": "Cotia",
-      "tipo": "deposito",
-      "confianca": "baixa",
-      "endereco": "Jardim Dinorah",
-      "telefone": null,
-      "site": null,
-      "cnpj": null,
-      "obs": "Só diretório."
-    },
-    {
-      "nome": "Adega Pununduva",
-      "cidade": "Cotia",
-      "tipo": "deposito",
-      "confianca": "baixa",
-      "endereco": "Pununduva",
-      "telefone": null,
-      "site": "https://meucomercio.com.br/adegapununduva",
-      "cnpj": null,
-      "obs": "Parece varejo; não fica claro se atende como fornecedor."
     },
     {
       "nome": "Assaí Atacadista Barueri",
@@ -1597,6 +1531,116 @@
       "site": "https://www.atacadao.com.br",
       "cnpj": null,
       "obs": "Preços do site para o CEP da adega (lojas Cotia Centro, Cotia Raposo Km 21, Jandira, Barueri e Itapevi). Confira no balcão antes de fechar."
+    },
+    {
+      "nome": "Monte Serrate Distribuidora de Bebidas",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Matrix, 190, Rio Cotia",
+      "telefone": "(11) 4612-3809",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "Loja Distribuidora Cotia",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Avenida Ralf Bolli, 63, Granja Carolina",
+      "telefone": "(11) 4703-8908",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "White Bebidas Distribuidora Atacado",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Avenida Roque Celestino Pires, 652, Centro",
+      "telefone": "(11) 94184-4236",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "BR Brasil Bebidas+ Atacadista",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Avenida Antonio Mathias de Camargo, 335, Centro",
+      "telefone": "(11) 96322-4376",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "Cia do Whisky (distribuidora)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Philip Leiner, 100, Galpao 5, Rio Cotia",
+      "telefone": "(11) 5095-7373",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "New Point Distribuidora",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Estrada Padre Inacio, 660, Centreville",
+      "telefone": "(11) 91641-5762",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "Emporio e Distribuidora Malibu",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Estrada do Embu, 1251, Jardim Torino",
+      "telefone": "(11) 97956-8207",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "D&G Distribuidora de Agua, Gas e Bebidas",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Estrada Padre Inacio, 1498, loja 2, Jd. N. Sra. das Gracas",
+      "telefone": "(11) 93762-0246",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "Velluto Rebelo (comercio de bebidas)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Sao Vicente, 1246, Parque Rincao",
+      "telefone": "(11) 4243-7853",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
+    },
+    {
+      "nome": "SP Chopp (DAB Comercio de Bebidas)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Avenida Jose Giorgi, 50, Granja Viana II",
+      "telefone": "(11) 4612-0522",
+      "site": null,
+      "cnpj": null,
+      "obs": "Guia Cotia Facil, categoria Bebidas (verificado 20/07/2026)"
     }
   ],
   "cotacoes": [
