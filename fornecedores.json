@@ -1,2445 +1,2658 @@
 {
- "formato": "adegapdv-fornecedores-v1",
- "versao": 4,
- "dataVarredura": "2026-07-19",
- "fornecedores": [
-  {
-   "nome": "Assaí Atacadista Cotia",
-   "cidade": "Cotia",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Estrada do Embu, 162, Jardim Torino",
-   "telefone": null,
-   "site": "https://www.assai.com.br/loja/assai-cotia",
-   "cnpj": null,
-   "obs": "Rede nacional; endereço confirmado no site oficial."
-  },
-  {
-   "nome": "Atacadão Cotia Centro",
-   "cidade": "Cotia",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Centro, Cotia",
-   "telefone": null,
-   "site": "https://www.atacadao.com.br/loja/cotia-centro",
-   "cnpj": null,
-   "obs": "Loja oficial da rede."
-  },
-  {
-   "nome": "Atacadão Cotia Raposo Km 21",
-   "cidade": "Cotia",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Rodovia Raposo Tavares, Km 21",
-   "telefone": null,
-   "site": "https://www.atacadao.com.br",
-   "cnpj": null,
-   "obs": "Loja oficial da rede."
-  },
-  {
-   "nome": "Roldão Atacadista Cotia",
-   "cidade": "Cotia",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://roldao.com.br/lojas/",
-   "cnpj": null,
-   "obs": "Confirmado por agregador de encartes; endereço não fechado."
-  },
-  {
-   "nome": "QD Distribuidora de Bebidas",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Philip Leiner, 100, Parque Alexandre",
-   "telefone": null,
-   "site": null,
-   "cnpj": "28.815.706/0001-20",
-   "obs": "CNPJ com endereço específico; fonte única."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Cotia LTDA",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "48.750.244/0001-18",
-   "obs": "Fundada em 1977 (quase 50 anos); endereço não confirmado."
-  },
-  {
-   "nome": "Distribuidora Cotia LTDA",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "28.124.594/0001-61",
-   "obs": "Empresa DIFERENTE da de 1977; só listagem de base de CNPJ."
-  },
-  {
-   "nome": "Distribuidora Mineirão",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.facebook.com/distribuidoramineirao1/",
-   "cnpj": null,
-   "obs": "Só presença em rede social."
-  },
-  {
-   "nome": "Flavors Distribuidora Bebidas",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": "Moinho Velho",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só diretório (GuiaMais)."
-  },
-  {
-   "nome": "Royal Bebidas",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Isaac Mario Pires, 3109, Caucaia do Alto",
-   "telefone": null,
-   "site": "https://siteroyalbebidas.com/",
-   "cnpj": null,
-   "obs": "Site próprio com delivery ativo; endereço claro."
-  },
-  {
-   "nome": "Atlantis Distribuidora de Bebidas",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rodovia Raposo Tavares, Granja Viana",
-   "telefone": null,
-   "site": null,
-   "cnpj": "00.616.709/0001-16",
-   "obs": "CNPJ com endereço; fonte única."
-  },
-  {
-   "nome": "Cia do Whisky (Empório M&L)",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "09.640.611/0001-79",
-   "obs": "Desde 2008; especializada em whisky."
-  },
-  {
-   "nome": "Deli Distribuidora",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "42.843.616/0001-74",
-   "obs": "Só listagem de base de CNPJ."
-  },
-  {
-   "nome": "Tatiane Cilene de Freitas (Distribuidora)",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "39.857.217/0001-58",
-   "obs": "MEI desde 2020; sem endereço confirmado."
-  },
-  {
-   "nome": "Distribuidora Cotia (Instagram)",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/distribuidora_cotia/",
-   "cnpj": null,
-   "obs": "Pode ser um dos CNPJs acima; não foi possível confirmar qual."
-  },
-  {
-   "nome": "Allmix Distribuidora",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só menção no Instagram."
-  },
-  {
-   "nome": "Germânia Cotia (chope e locações)",
-   "cidade": "Cotia",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Nicho de chope e locação de equipamentos."
-  },
-  {
-   "nome": "LM Bebidas (Adega LM)",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Estrada do Lutero, 65, Paisagem Renoir",
-   "telefone": null,
-   "site": "https://www.instagram.com/adega_lm7/",
-   "cnpj": null,
-   "obs": "Endereço só numa fonte; cruzamento não confirmado."
-  },
-  {
-   "nome": "Distribuidor de Água Mineral",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "media",
-   "endereco": "Rua Ávila, 67, Parque Miguel Mirizola",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório com endereço específico; nicho de água."
-  },
-  {
-   "nome": "Biel Alemão Bebidas",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Recanto Arco Verde",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só diretório."
-  },
-  {
-   "nome": "Bar e Mercearia Tomé-Sou",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Jardim Araruama",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Parece bar/mercearia, não necessariamente atacadista."
-  },
-  {
-   "nome": "Esquadrão Bebidas (Lúpulo Azul)",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Jardim dos Ipês",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só diretório."
-  },
-  {
-   "nome": "Cachaça Calmaria",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Rua Bartolomeu Bueno da Silva, 69, São Paulo II",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Nicho de cachaça."
-  },
-  {
-   "nome": "Adega House Beer JP",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Jardim Sandra",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só diretório."
-  },
-  {
-   "nome": "Adega Rio Cotia",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só diretório."
-  },
-  {
-   "nome": "Adega Nova Cotia",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Jardim Dinorah",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só diretório."
-  },
-  {
-   "nome": "Adega Pununduva",
-   "cidade": "Cotia",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Pununduva",
-   "telefone": null,
-   "site": "https://meucomercio.com.br/adegapununduva",
-   "cnpj": null,
-   "obs": "Parece varejo; não fica claro se atende como fornecedor."
-  },
-  {
-   "nome": "Assaí Atacadista Barueri",
-   "cidade": "Barueri",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Mário Sadanori Doi, 479, Jardim dos Camargos",
-   "telefone": null,
-   "site": "https://www.assai.com.br",
-   "cnpj": null,
-   "obs": "Confirmado por site oficial + imprensa especializada."
-  },
-  {
-   "nome": "Solut Distribuidora de Bebidas",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Jardim Julio",
-   "telefone": "(11) 4326-6040",
-   "site": null,
-   "cnpj": "21.400.006/0001-26",
-   "obs": "Telefone e CNPJ consistentes em diretório."
-  },
-  {
-   "nome": "Cerville Distribuidora de Bebidas",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Alameda Mamoré, 535, Sala 209, Alphaville Industrial",
-   "telefone": "(11) 3666-0636",
-   "site": null,
-   "cnpj": "62.896.543/0001-96",
-   "obs": "Desde 1990; endereço e telefone confirmados em 2 fontes."
-  },
-  {
-   "nome": "Distribar Distribuidora de Bebidas",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Pirambóia, Jardim Santa Cecília",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Mesmo endereço em 3 diretórios distintos."
-  },
-  {
-   "nome": "B-Center Distribuidora de Bebidas",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua São Paulo, 356, Alphaville Empresarial",
-   "telefone": null,
-   "site": null,
-   "cnpj": "57.462.566/0001-52",
-   "obs": "Desde 1987; fonte única de CNPJ."
-  },
-  {
-   "nome": "M A S Distribuidora (Atacado e Varejo)",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Zélia, 258, Parque dos Camargos",
-   "telefone": null,
-   "site": null,
-   "cnpj": "43.760.298/0001-40",
-   "obs": "Desde 2021; CNPJ com endereço específico."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Teodoro",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Capitão Francisco Cezar, 1180, Vila Pindorama",
-   "telefone": null,
-   "site": null,
-   "cnpj": "00.674.541/0001-03",
-   "obs": "CNPJ com endereço; fonte única."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Barletta",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Antônio Chalupe, 71, Vila Boa Vista",
-   "telefone": null,
-   "site": null,
-   "cnpj": "49.716.905/0001-51",
-   "obs": "CNPJ com endereço; fonte única."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Canoas",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Maria Luiza, 75, Vila São Luiz",
-   "telefone": null,
-   "site": null,
-   "cnpj": "58.655.457/0001-14",
-   "obs": "Desde 1988; fonte única."
-  },
-  {
-   "nome": "Elevage Importadora e Distribuidora",
-   "cidade": "Barueri",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Andrômeda, 885, Sala 2805-B, Alphaville",
-   "telefone": null,
-   "site": null,
-   "cnpj": "33.279.427/0001-20",
-   "obs": "Foco em importação; endereço corporativo."
-  },
-  {
-   "nome": "Assaí Atacadista Itapevi",
-   "cidade": "Itapevi",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Rod. Eng. René Benedito da Silva, 849, São João",
-   "telefone": null,
-   "site": "https://www.assai.com.br/loja/assai-itapevi",
-   "cnpj": null,
-   "obs": "Site oficial + imprensa local."
-  },
-  {
-   "nome": "Atacadão Itapevi",
-   "cidade": "Itapevi",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Rod. Eng. René Benedito Silva, 965",
-   "telefone": "(11) 4621-2024",
-   "site": "https://www.atacadao.com.br/loja/itapevi",
-   "cnpj": null,
-   "obs": "Site oficial + diretórios com mesmo endereço/telefone."
-  },
-  {
-   "nome": "Roldão Atacadista Itapevi",
-   "cidade": "Itapevi",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Rod. Eng. René Benedito da Silva, 391, Setor D",
-   "telefone": null,
-   "site": "https://roldao.com.br/lojas/",
-   "cnpj": null,
-   "obs": "Confirmado por imprensa local e diretório."
-  },
-  {
-   "nome": "WM Distribuidora de Bebidas e Rações",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua Sarg. Antônio Vieira Noia, 23, Cidade da Saúde",
-   "telefone": "(11) 4789-4277",
-   "site": null,
-   "cnpj": "39.510.652/0001-01",
-   "obs": "Desde 2020; dados consistentes em 2 fontes."
-  },
-  {
-   "nome": "WS Comércio e Distribuidora de Bebidas",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua Cuba, 130, Jardim Santa Rita",
-   "telefone": null,
-   "site": null,
-   "cnpj": "49.998.838/0001-05",
-   "obs": "Desde 2023; dados consistentes em 2 fontes."
-  },
-  {
-   "nome": "Lopes Distribuidora de Bebidas",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Citada como uma das maiores da cidade; endereço não localizado."
-  },
-  {
-   "nome": "Xapadão Bebidas",
-   "cidade": "Itapevi",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/xapadaobebidas/",
-   "cnpj": null,
-   "obs": "Descrita como tradicional; só rede social."
-  },
-  {
-   "nome": "Indústria e Bebidas Ribeiro",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "52.325.939/0001-20",
-   "obs": "Desde 2023; fonte única."
-  },
-  {
-   "nome": "Bebidas Nude (filial Itapevi)",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Portugal, 1174, Itaqui",
-   "telefone": null,
-   "site": null,
-   "cnpj": "36.846.716/0003-13",
-   "obs": "Filial desde 2022; endereço específico."
-  },
-  {
-   "nome": "Grando Distribuidora",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": "Av. Portugal, 1174, Itaqui",
-   "telefone": null,
-   "site": null,
-   "cnpj": "51.329.438/0001-59",
-   "obs": "Mesmo endereço da Bebidas Nude (possível grupo ligado)."
-  },
-  {
-   "nome": "Vitória Distribuidora e Atacado",
-   "cidade": "Itapevi",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "55.172.527/0001-95",
-   "obs": "Cidade não confirmada no próprio registro."
-  },
-  {
-   "nome": "G.G. Comércio Varejista de Bebidas",
-   "cidade": "Itapevi",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "43.253.086/0001-77",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Assaí Atacadista Jandira",
-   "cidade": "Jandira",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Alziro Soares, 20, Pres. Wilson",
-   "telefone": "(11) 4772-1400",
-   "site": "https://www.assai.com.br/loja/assai-jandira",
-   "cnpj": null,
-   "obs": "Site oficial confirma endereço e telefone."
-  },
-  {
-   "nome": "Roldão Atacadista Jandira",
-   "cidade": "Jandira",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. João Vicente do Nascimento, 700, Pres. Wilson",
-   "telefone": null,
-   "site": "https://roldao.com.br/lojas/jandira/",
-   "cnpj": null,
-   "obs": "Site oficial da rede."
-  },
-  {
-   "nome": "Adega e Distribuidora Buscapé",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Fernando Pessoa, 1126",
-   "telefone": null,
-   "site": "https://www.facebook.com/adegabuscape/",
-   "cnpj": null,
-   "obs": "Endereço com referência local; confirmado em 2 buscas."
-  },
-  {
-   "nome": "Alemão Bebidas (Jandira)",
-   "cidade": "Jandira",
-   "tipo": "deposito",
-   "confianca": "media",
-   "endereco": "Rua José Longo, 260, Jardim Sagrado Coração",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório indica mais de 10 anos de atuação."
-  },
-  {
-   "nome": "Comercial e Distribuidora Benfica",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Elvira Simone Donega, 73, Jardim Brotinho",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório indica atuação desde 2002."
-  },
-  {
-   "nome": "BV Bonafont Distribuidora de Água",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Willian Wadell, 453, Centro",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Desde 2016 segundo diretório; nicho de água."
-  },
-  {
-   "nome": "JG Bebidas (Distribuidora JG)",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://distribuidorajg.com.br/",
-   "cnpj": null,
-   "obs": "Site próprio; sede provável em Osasco, atende a região."
-  },
-  {
-   "nome": "JJ Atacado",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/jj.atacado/",
-   "cnpj": null,
-   "obs": "Só Instagram; cidade não plenamente confirmada."
-  },
-  {
-   "nome": "R Limas Delivery de Bebidas",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua João Barbosa, 91, Centro",
-   "telefone": null,
-   "site": null,
-   "cnpj": "49.576.789/0001-12",
-   "obs": "Desde 2023; endereço específico; entrega."
-  },
-  {
-   "nome": "Adega e Distribuidora Barreto",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Jorge de Oliveira Prado, 23, Vila Santa Rosa",
-   "telefone": null,
-   "site": null,
-   "cnpj": "16.371.673/0001-98",
-   "obs": "Desde 2012; endereço específico."
-  },
-  {
-   "nome": "A D Comércio de Bebidas e Condimentos",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua José Pereira Possidônio, 200, Jardim Alvorada",
-   "telefone": null,
-   "site": null,
-   "cnpj": "08.457.474/0001-79",
-   "obs": "Atividade principal: atacado de bebidas."
-  },
-  {
-   "nome": "Adega TJ Comércio de Bebidas",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": "Rua Francisca Maria Bueno, 247, Jardim Gabriela I",
-   "telefone": null,
-   "site": null,
-   "cnpj": "59.249.204/0001-03",
-   "obs": "Empresa muito nova (02/2025); pouco histórico."
-  },
-  {
-   "nome": "JB Distribuidora de Bebidas (Jandira)",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "36.443.318/0001-94",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "JR Distribuidora de Água",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "32.985.470/0001-48",
-   "obs": "Nicho de água; fonte única."
-  },
-  {
-   "nome": "Real Distribuidora de Alimentos e Bebidas",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "31.912.489/0001-00",
-   "obs": "Cidade não confirmada no próprio registro."
-  },
-  {
-   "nome": "J J Distribuidora de Bebidas",
-   "cidade": "Jandira",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "01.927.195/0001-82",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Bruno Bebidas",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua Harold Loyd, 188, Centro",
-   "telefone": "(11) 93451-7607",
-   "site": "https://brunobebidas.com.br/",
-   "cnpj": "41.033.202/0001-17",
-   "obs": "Site + Instagram (9,6 mil seguidores) + CNPJ consistentes em 3 fontes."
-  },
-  {
-   "nome": "Adega Castro (Distribuidora Castro)",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "11ª Rua das Camareiras, 11, Jardim Europa",
-   "telefone": null,
-   "site": null,
-   "cnpj": "37.933.424/0001-19",
-   "obs": "Endereço e CNPJ consistentes em 2 fontes."
-  },
-  {
-   "nome": "Alex Depósito de Bebidas",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": "Estrada do Pacuí, 126",
-   "telefone": null,
-   "site": "https://www.instagram.com/alex_depositodebebidas/",
-   "cnpj": null,
-   "obs": "Só Instagram (972 seguidores)."
-  },
-  {
-   "nome": "MegaG Alimentos",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://megag.com.br",
-   "cnpj": null,
-   "obs": "CD de 46 mil m²; oferta de bebidas p/ pequeno varejo não confirmada."
-  },
-  {
-   "nome": "Efeum Bebidas",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Santa Bárbara, 186, Pq. Ind. Tijuco Preto",
-   "telefone": null,
-   "site": null,
-   "cnpj": "44.699.605/0001-98",
-   "obs": "Desde 2021; atacado de cerveja/chope/refrigerante."
-  },
-  {
-   "nome": "Distribuidora VGP",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "22.077.919/0001-16",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Nakao Bebidas",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "deposito",
-   "confianca": "media",
-   "endereco": "Rodovia Bunjiro Nakao, 45477",
-   "telefone": null,
-   "site": null,
-   "cnpj": "23.446.356/0001-59",
-   "obs": "Comércio varejista de bebidas; endereço específico."
-  },
-  {
-   "nome": "Cabecinha Gás",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "10.599.267/0001-09",
-   "obs": "Provável gás de cozinha; bebidas não confirmadas."
-  },
-  {
-   "nome": "O Barato da Vargem",
-   "cidade": "Vargem Grande Paulista",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "52.969.108/0001-90",
-   "obs": "Atividade exata não confirmada."
-  },
-  {
-   "nome": "Assaí Atacadista Novo Osasco",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Valter Bóveri, 501, Novo Osasco",
-   "telefone": null,
-   "site": "https://www.assai.com.br/loja/assai-osasco",
-   "cnpj": null,
-   "obs": "Site oficial."
-  },
-  {
-   "nome": "Assaí Atacadista Vila Yara",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. dos Autonomistas, 1687, Vila Yara",
-   "telefone": null,
-   "site": "https://www.assai.com.br",
-   "cnpj": null,
-   "obs": "Confirmado por imprensa especializada."
-  },
-  {
-   "nome": "Atacadão Osasco Centro (24h)",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Hilário Pereira de Souza, 588, Centro",
-   "telefone": null,
-   "site": "https://www.atacadao.com.br/loja/osasco",
-   "cnpj": null,
-   "obs": "Site oficial; funciona 24h."
-  },
-  {
-   "nome": "Atacadão Osasco Bonança",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Rua Constante Piovan, 1514, Bonança",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Confirmado por imprensa; sem página oficial própria."
-  },
-  {
-   "nome": "Roldão Atacadista Osasco (Quitaúna)",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Av. dos Autonomistas, Quitaúna",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Bairro na divisa com Carapicuíba; endereço parcial."
-  },
-  {
-   "nome": "Roldão Atacadista Osasco II (Aliança)",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Pres. Médici, 575, Aliança",
-   "telefone": null,
-   "site": "https://roldao.com.br/lojas/osasco-2/",
-   "cnpj": null,
-   "obs": "Site oficial da rede."
-  },
-  {
-   "nome": "Tenda Atacado Osasco (F. E. R. Esquivel)",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Av. Fábio Eduardo Ramos Esquivel, 3000",
-   "telefone": null,
-   "site": "https://www.tendaatacado.com.br",
-   "cnpj": null,
-   "obs": "Confirmado por agregador de encartes."
-  },
-  {
-   "nome": "Tenda Atacado Osasco (Salto de São José)",
-   "cidade": "Osasco",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Rodovia da Convenção, 760, Salto de São José",
-   "telefone": "(11) 2489-2922",
-   "site": "https://www.tendaatacado.com.br",
-   "cnpj": null,
-   "obs": "Diretório com telefone específico."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Ideal",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua João Ramalho, 300, Piratininga",
-   "telefone": null,
-   "site": null,
-   "cnpj": "03.324.722/0001-90",
-   "obs": "Desde 1999; citada como uma das maiores de Osasco."
-  },
-  {
-   "nome": "Botella Distribuidora de Bebidas",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua Vicente Rodrigues da Silva, 850, Piratininga",
-   "telefone": null,
-   "site": null,
-   "cnpj": "53.979.668/0001-99",
-   "obs": "Dados consistentes em 2 fontes."
-  },
-  {
-   "nome": "Guaporé Distribuidora",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Citada como das maiores; sem endereço/CNPJ confirmados."
-  },
-  {
-   "nome": "Central Osasco Distribuidora",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Av. Maria Campos, 190, Centro",
-   "telefone": "(11) 3652-5440",
-   "site": "https://centralosasco.com.br/",
-   "cnpj": "58.671.942/0001-81",
-   "obs": "Site próprio + diretório + CNPJ consistentes."
-  },
-  {
-   "nome": "Nossa Distribuidora",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.nossadistribuidorabebidas.com.br/",
-   "cnpj": null,
-   "obs": "Site + Instagram; vínculo exato de CNPJ não confirmado."
-  },
-  {
-   "nome": "Atacadão Bebidas (Rochdale)",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Brasil, 1585, Rochdale",
-   "telefone": null,
-   "site": "https://www.instagram.com/atacadaobebidasoficial/",
-   "cnpj": null,
-   "obs": "ATENÇÃO: não é a rede Atacadão; empresa independente."
-  },
-  {
-   "nome": "Pimentel Atacado de Bebidas",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Estrela, 61, Novo Osasco",
-   "telefone": "(11) 95761-5229",
-   "site": "https://www.instagram.com/pimentel_bebidas/",
-   "cnpj": null,
-   "obs": "Instagram 2,4 mil seguidores; 2 telefones específicos."
-  },
-  {
-   "nome": "Distribuidora MT",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Osvaldo Costa, 474, Vila Menck",
-   "telefone": null,
-   "site": null,
-   "cnpj": "49.720.083/0001-82",
-   "obs": "CNPJ com endereço específico; fonte única."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Ohanna",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "60.029.095/0001-06",
-   "obs": "Empresa muito nova (03/2025)."
-  },
-  {
-   "nome": "Distribuidora Pereira e Pereira",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "36.729.963/0001-78",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Beer Bel Distribuidora",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "00.595.721/0001-91",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "HSS Distribuidora (Smith)",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "23.943.433/0001-86",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "JG Bebidas (atende Osasco)",
-   "cidade": "Osasco",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://distribuidorajg.com.br/distribuidora-de-bebidas-em-osasco/",
-   "cnpj": null,
-   "obs": "Site menciona atendimento a Osasco; sede não confirmada."
-  },
-  {
-   "nome": "Assaí Atacadista Carapicuíba",
-   "cidade": "Carapicuíba",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Des. Dr. Eduardo Cunha de Abreu, 1455, Vila Municipal",
-   "telefone": "(11) 4189-9600",
-   "site": "https://www.assai.com.br/loja/assai-carapicuiba",
-   "cnpj": null,
-   "obs": "Site oficial confirma endereço e telefone."
-  },
-  {
-   "nome": "Tenda Atacado Carapicuíba",
-   "cidade": "Carapicuíba",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Av. Des. Dr. Eduardo Cunha de Abreu, 495, Vila Municipal",
-   "telefone": null,
-   "site": "https://www.tendaatacado.com.br",
-   "cnpj": null,
-   "obs": "Mesma avenida do Assaí; confirmado por agregador."
-  },
-  {
-   "nome": "Roldão Atacadista Carapicuíba",
-   "cidade": "Carapicuíba",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Av. dos Autonomistas, 46, Quitaúna",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Bairro limítrofe com Osasco; conferir município na visita."
-  },
-  {
-   "nome": "Atacadão Carapicuíba Km21",
-   "cidade": "Carapicuíba",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Estrada da Gabiroba, 750, Jardim Maria Rita",
-   "telefone": null,
-   "site": "https://www.atacadao.com.br/loja/carapicuiba",
-   "cnpj": null,
-   "obs": "Site oficial + diretório com mesmo endereço."
-  },
-  {
-   "nome": "Atacadão Carapicuíba Gopiúva",
-   "cidade": "Carapicuíba",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Bairro Gopiúva",
-   "telefone": null,
-   "site": "https://www.atacadao.com.br/loja/carapicuiba-gopiuva",
-   "cnpj": null,
-   "obs": "Segunda loja da rede na cidade (imprensa)."
-  },
-  {
-   "nome": "KW Drinks",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Citada como das maiores; sem endereço/CNPJ."
-  },
-  {
-   "nome": "Adega do Vila Distribuidora",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "55.287.081/0001-44",
-   "obs": "Citada como das maiores + CNPJ confirmado em base."
-  },
-  {
-   "nome": "Distribuidora de Bebidas da Vila II",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Citada como das maiores; sem dados localizados."
-  },
-  {
-   "nome": "LG Distribuidora de Bebidas",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. General Teixeira Lott, 310",
-   "telefone": "(11) 4184-8392",
-   "site": "https://www.facebook.com/lgbebidasdistribuidora/",
-   "cnpj": null,
-   "obs": "Facebook + diretório com telefone consistente; entrega grátis divulgada."
-  },
-  {
-   "nome": "Saluti Bebidas",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Com. Dante Carraro, 334, Cidade Ariston",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório com endereço e horário detalhados."
-  },
-  {
-   "nome": "Distribuidora Novo Rumo",
-   "cidade": "Carapicuíba",
-   "tipo": "deposito",
-   "confianca": "media",
-   "endereco": "Av. Victorio Fornazaro, 1471, Vila Sul Americana",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório indica mais de 9 anos de atuação."
-  },
-  {
-   "nome": "Distribuidora de Bebidas Império",
-   "cidade": "Carapicuíba",
-   "tipo": "deposito",
-   "confianca": "media",
-   "endereco": "Rua Ludovina Cruz Cintra, 2, Jardim Maria Beatriz",
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório indica atuação desde 2018."
-  },
-  {
-   "nome": "Brasileirão Atacado",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Eduardo Augusto Mesquita, 631, Pq. Santa Teresa",
-   "telefone": null,
-   "site": "https://brasileiraoatacado.com/",
-   "cnpj": null,
-   "obs": "Site próprio + Instagram com 174 mil seguidores."
-  },
-  {
-   "nome": "No Dek Distribuidora",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "49.341.634/0001-05",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "L A Distribuidora de Bebidas",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "18.358.343/0001-98",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Drive Beer Bar e Distribuidora",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "20.715.078/0001-08",
-   "obs": "Desde 2014; sem endereço confirmado."
-  },
-  {
-   "nome": "União Distribuidora de Bebidas e Alimentos",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "40.478.744/0001-30",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Adega e Distribuidora de Bebidas (Carapicuíba)",
-   "cidade": "Carapicuíba",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "42.789.778/0001-71",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Adega & Distribuidora Master",
-   "cidade": "Carapicuíba",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "29.798.673/0001-10",
-   "obs": "MEI; fonte única, sem endereço."
-  },
-  {
-   "nome": "SA Distribuidora de Doces, Bebidas e Alimentos",
-   "cidade": "Carapicuíba",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "16.837.513/0002-72",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Assaí Atacadista Embu das Artes",
-   "cidade": "Embu das Artes",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "Av. Elias Yazbek, 1183, Tingidor",
-   "telefone": "(11) 4778-9600",
-   "site": "https://www.assai.com.br",
-   "cnpj": null,
-   "obs": "Televendas (11) 4778-9601/9602; site oficial + imprensa."
-  },
-  {
-   "nome": "Atacadão Embu das Artes",
-   "cidade": "Embu das Artes",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": "Rua Itapeti, 136, Jardim Santo Eduardo",
-   "telefone": null,
-   "site": "https://www.atacadao.com.br",
-   "cnpj": null,
-   "obs": "Confirmado por diretório local."
-  },
-  {
-   "nome": "Vencedor Atacadista Embu das Artes",
-   "cidade": "Embu das Artes",
-   "tipo": "atacarejo",
-   "confianca": "media",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Rede regional; confirmado por imprensa especializada."
-  },
-  {
-   "nome": "Akki Atacadista Embu das Artes",
-   "cidade": "Embu das Artes",
-   "tipo": "atacarejo",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só menção em agregador de ofertas."
-  },
-  {
-   "nome": "Embuteko Distribuidora e Restaurante",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Rua Oiapoque, 454, Parque Pirajussara",
-   "telefone": "(11) 5169-8388",
-   "site": null,
-   "cnpj": null,
-   "obs": "Diretório indica mais de 35 anos de atuação."
-  },
-  {
-   "nome": "Dawe Distribuidora de Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua Nonoai, 63, Jardim da Luz",
-   "telefone": null,
-   "site": null,
-   "cnpj": "17.298.222/0001-35",
-   "obs": "Desde 2012; dados consistentes em 2 fontes."
-  },
-  {
-   "nome": "Spon Distribuidora de Bebidas S.A.",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua José Semião R. Agostinho, 1210, Água Espraiada",
-   "telefone": null,
-   "site": null,
-   "cnpj": "39.769.541/0001-14",
-   "obs": "Desde 2020; dados consistentes em 2 fontes."
-  },
-  {
-   "nome": "Sousa Atacado e Varejo de Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "alta",
-   "endereco": "Rua Augusto de A. Batista, 1974, Jardim São Vicente",
-   "telefone": null,
-   "site": null,
-   "cnpj": "45.118.894/0001-57",
-   "obs": "Desde 2022; confirmada em 3 fontes."
-  },
-  {
-   "nome": "Maresias Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. Rotary, 226, Box 01, Gramado",
-   "telefone": null,
-   "site": null,
-   "cnpj": "25.265.375/0001-04",
-   "obs": "Desde 2016; inclui fracionamento e envase."
-  },
-  {
-   "nome": "Urano Distribuidora de Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "44.016.198/0001-77",
-   "obs": "Desde 2021; sem endereço confirmado."
-  },
-  {
-   "nome": "Tegom Distribuidora de Bebidas e Alimentos",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "media",
-   "endereco": "Av. João Paulo I, 1322, Jardim Santa Bárbara",
-   "telefone": null,
-   "site": null,
-   "cnpj": "37.621.155/0001-55",
-   "obs": "Desde 2020; endereço específico."
-  },
-  {
-   "nome": "Marques Distribuidora de Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "43.239.966/0001-99",
-   "obs": "Fonte única, sem endereço."
-  },
-  {
-   "nome": "Forts Distribuidora",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": "48.596.066/0001-12",
-   "obs": "Nome genérico; bebidas não claramente indicadas."
-  },
-  {
-   "nome": "Atacado Soares",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/atacadosoares_tereza/",
-   "cnpj": null,
-   "obs": "Só Instagram; endereço não fechado."
-  },
-  {
-   "nome": "Atacado Máximo Embu",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só marcação de local no Instagram."
-  },
-  {
-   "nome": "RM's Distribuidora de Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Citada em listagem; sem dados localizados."
-  },
-  {
-   "nome": "Nascélio Distribuidora de Bebidas",
-   "cidade": "Embu das Artes",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Citada em listagem; sem dados localizados."
-  },
-  {
-   "nome": "São Paulo Atacado de Bebidas",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/saopauloatacadodebebidas/",
-   "cnpj": null,
-   "obs": "Atende a região por entrega; sede fora das 8 cidades."
-  },
-  {
-   "nome": "G2 Atacado de Bebidas",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/g2atacadodebebidas/",
-   "cnpj": null,
-   "obs": "Instagram com 144 mil seguidores; cidade não confirmada."
-  },
-  {
-   "nome": "Prince Atacadão das Bebidas",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/princeatacadaodasbebidas/",
-   "cnpj": null,
-   "obs": "Instagram com 58 mil seguidores; cidade não confirmada."
-  },
-  {
-   "nome": "Rei das Bebidas Atacado",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/rei_das_bebidas/",
-   "cnpj": null,
-   "obs": "Instagram com 34 mil seguidores; cidade não confirmada."
-  },
-  {
-   "nome": "Posto das Bebidas",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/postobebidas/",
-   "cnpj": null,
-   "obs": "Cidade não confirmada."
-  },
-  {
-   "nome": "Porto Bebidas Atacadão",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/portobebidasatacadao/",
-   "cnpj": null,
-   "obs": "Cidade não confirmada."
-  },
-  {
-   "nome": "Depósito Amorim",
-   "cidade": "Região (delivery)",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/depositoamorim71/",
-   "cnpj": null,
-   "obs": "Instagram com 11 mil seguidores; cidade não confirmada."
-  },
-  {
-   "nome": "Sul Mantiqueira Distribuidora",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/sulmantiqueiraatacado/",
-   "cnpj": null,
-   "obs": "Cidade não confirmada."
-  },
-  {
-   "nome": "JB Distribuidora de Bebidas (@bebidas.jb)",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/bebidas.jb/",
-   "cnpj": null,
-   "obs": "Cidade não confirmada."
-  },
-  {
-   "nome": "Atacadão da Bebida",
-   "cidade": "Região (delivery)",
-   "tipo": "distribuidora",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.instagram.com/atacadaodabebidaoficial/",
-   "cnpj": null,
-   "obs": "Não é a rede Atacadão; cidade não confirmada."
-  },
-  {
-   "nome": "Depósito de Bebidas São João",
-   "cidade": "Região (delivery)",
-   "tipo": "deposito",
-   "confianca": "baixa",
-   "endereco": null,
-   "telefone": null,
-   "site": null,
-   "cnpj": null,
-   "obs": "Só marcação de local no Instagram; cidade não confirmada."
-  },
-  {
-   "nome": "Tenda Atacado (site, entrega na região)",
-   "cidade": "Região (delivery)",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": "E-commerce oficial; lojas físicas em Osasco e Carapicuíba",
-   "telefone": null,
-   "site": "https://www.tendaatacado.com.br",
-   "cnpj": null,
-   "obs": "Preço público no site (informando o CEP); entrega ou Clique & Retire."
-  },
-  {
-   "nome": "Atacadão (site, região de Cotia)",
-   "cidade": "Região (delivery)",
-   "tipo": "atacarejo",
-   "confianca": "alta",
-   "endereco": null,
-   "telefone": null,
-   "site": "https://www.atacadao.com.br",
-   "cnpj": null,
-   "obs": "Preços do site para o CEP da adega (lojas Cotia Centro, Cotia Raposo Km 21, Jandira, Barueri e Itapevi). Confira no balcão antes de fechar."
-  }
- ],
- "cotacoes": [
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "51 Ice Long Neck 275ml",
-   "preco": 499,
-   "unidade": "Bebida 51 Ice 275ml (sabores variados)",
-   "fonteUrl": "https://www.atacadao.com.br/bebida-51-ice-limao-54737/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Água Mineral com Gás 500ml",
-   "preco": 219,
-   "unidade": "Agua Mineral Crystal Com gas 500ml",
-   "fonteUrl": "https://www.atacadao.com.br/agua-mineral-crystal-com-gas-30723/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Água Mineral com Gás 500ml",
-   "preco": 215,
-   "unidade": "Água Mineral com Gás Crystal 500ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-com-gas-crystal-500ml-6988",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 195,
-   "atacadoMin": 6
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Água Mineral sem Gás 500ml",
-   "preco": 219,
-   "unidade": "Agua Mineral Crystal Sem gas 500ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Água Mineral sem Gás 500ml",
-   "preco": 215,
-   "unidade": "Água Mineral sem Gás Crystal 500ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-sem-gas-crystal-500ml-3214",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 195,
-   "atacadoMin": 6
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Água Tônica Antarctica Lata 350ml",
-   "preco": 369,
-   "unidade": "Agua Tonica Antarctica 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/agua-tonica-antarctica-12440/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Água Tônica Antarctica Lata 350ml",
-   "preco": 349,
-   "unidade": "Água Tônica Antarctica 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-tonica-antarctica-350ml-616",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Amstel Lata 350ml",
-   "preco": 369,
-   "unidade": "Cerveja Amstel Sleek 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-amstel-sleek-86708/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Amstel Lata 350ml",
-   "preco": 409,
-   "unidade": "Cerveja Amstel Lata 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-amstel-lata-350ml",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 359,
-   "atacadoMin": 6
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Antarctica Original Garrafa 600ml",
-   "preco": 1099,
-   "unidade": "Cerveja Pilsen Original Antarctica 600ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-antarctica-original-600ml-3459",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 999,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Antarctica Pilsen Lata 350ml",
-   "preco": 329,
-   "unidade": "Cerveja Antarctica 350ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Antarctica Pilsen Lata 350ml",
-   "preco": 319,
-   "unidade": "Cerveja Pilsen Antarctica Lata 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-antarctica-pilsen-350ml-lata",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Baly Energético 2L",
-   "preco": 1190,
-   "unidade": "Energetico Baly Tradicional 2L",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Baly Energético 2L",
-   "preco": 999,
-   "unidade": "Energético Melancia Baly 2L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-melancia-baly-2l",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Chopp Lata 350ml",
-   "preco": 329,
-   "unidade": "Cerveja Brahma Chopp 350ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Chopp Lata 350ml",
-   "preco": 369,
-   "unidade": "Cerveja Brahma Chopp Pilsen 350ml Lata",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-chopp-pilsen-350ml-lata",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Duplo Malte Lata 350ml",
-   "preco": 426,
-   "unidade": "Cerveja Brahma Duplo Malte 350ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Duplo Malte Lata 350ml",
-   "preco": 449,
-   "unidade": "Cerveja Brahma Duplo Malte Puro Malte 350ml Lata",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-duplo-malte-puro-malte-350ml-lata",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Malzbier Lata 350ml",
-   "preco": 559,
-   "unidade": "Cerveja Brahma Malzbier 350ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Brahma Malzbier Lata 350ml",
-   "preco": 569,
-   "unidade": "Cerveja Escura Malzbier Brahma 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-escura-malzbier-brahma-350ml",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 519,
-   "atacadoMin": 6
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Budweiser Long Neck 330ml",
-   "preco": 649,
-   "unidade": "Cerveja Budweiser 330ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-budweiser-62237/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Budweiser Long Neck 330ml",
-   "preco": 619,
-   "unidade": "Cerveja Budweiser American Lager 330ml Long Neck",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-budweiser-american-lager-330ml-long-neck",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça 51 965ml",
-   "preco": 1390,
-   "unidade": "Cachaca 51 Com casco 965ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça 51 965ml",
-   "preco": 1285,
-   "unidade": "Aguardente 51 Pirassununga 965ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-51-pirassununga-965ml-236",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 1185,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça Pitú 970ml",
-   "preco": 1099,
-   "unidade": "Cachaca Pitu Com casco 965ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça Pitú 970ml",
-   "preco": 1530,
-   "unidade": "Aguardente Pitú 965ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-pitu-965ml-33395",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 1430,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça Velho Barreiro 910ml",
-   "preco": 1590,
-   "unidade": "Cachaca Velho Barreiro 910ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Cachaça Velho Barreiro 910ml",
-   "preco": 1570,
-   "unidade": "Aguardente Velho Barreiro 910ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-velho-barreiro-910ml-1254",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 1470,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola 2L",
-   "preco": 1229,
-   "unidade": "Refrigerante Coca-Cola 2L",
-   "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-pet-com-2l-12380/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola 2L",
-   "preco": 1190,
-   "unidade": "Refrigerante Original Menos Açúcar Coca-Cola Garrafa 2l",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-original-garrafa-2l",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola 600ml",
-   "preco": 457,
-   "unidade": "Refrigerante Coca-Cola Original 600ml",
-   "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-original-6674/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola 600ml",
-   "preco": 619,
-   "unidade": "Refrigerante Coca-Cola Original Garrafa 600ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-600ml-947",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 569,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola Lata 350ml",
-   "preco": 419,
-   "unidade": "Refrigerante Coca-Cola 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-lata-com-350ml-7699/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Coca-Cola Lata 350ml",
-   "preco": 419,
-   "unidade": "Refrigerante Coca-Cola 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-350ml-552",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Conhaque Dreher 900ml",
-   "preco": 1890,
-   "unidade": "Conhaque Dreher 900ml",
-   "fonteUrl": "https://www.atacadao.com.br/conhaque-dreher-2417/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Conhaque Dreher 900ml",
-   "preco": 1950,
-   "unidade": "Conhaque Dreher 900ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/conhaque-dreher-900ml-802",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 1750,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corona Extra Long Neck 330ml",
-   "preco": 729,
-   "unidade": "Cerveja Corona Extra 330ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-corona-extra-66884/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corona Extra Long Neck 330ml",
-   "preco": 749,
-   "unidade": "Cerveja Corona Extra 330ml Long Neck",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-corona-extra-330ml-long-neck",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corote Limão 500ml",
-   "preco": 399,
-   "unidade": "Coquetel Corote Limao 500ml",
-   "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-limao-60084/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corote Limão 500ml",
-   "preco": 415,
-   "unidade": "Coquetel Sabor Limão Corote 500ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-limao-corote-500ml-10819",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 365,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corote Maracujá 500ml",
-   "preco": 399,
-   "unidade": "Coquetel Corote Maracuja 500ml",
-   "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-maracuja-60083/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corote Maracujá 500ml",
-   "preco": 415,
-   "unidade": "Coquetel Sabor Maracujá Corote 500ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-maracuja-corote-500ml-20320",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 365,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corote Morango 500ml",
-   "preco": 399,
-   "unidade": "Coquetel Corote Morango 500ml",
-   "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-morango-57941/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Corote Morango 500ml",
-   "preco": 415,
-   "unidade": "Coquetel Sabor Morango Corote 500ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-morango-corote-500ml-10831",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 365,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Crystal Lata 350ml",
-   "preco": 219,
-   "unidade": "Cerveja Pilsen Crystal 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-crystal-350ml-2453",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Fanta Laranja 2L",
-   "preco": 990,
-   "unidade": "Refrigerante Fanta Laranja 2L",
-   "fonteUrl": "https://www.atacadao.com.br/refrigerante-fanta-laranja-12588/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Fanta Laranja 2L",
-   "preco": 949,
-   "unidade": "Refrigerante Laranja Fanta Garrafa 2l",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-sabor-laranja-fanta-2l-322",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Gelo Pacote 5kg",
-   "preco": 1190,
-   "unidade": "Gelo em Cubos K-Gelo 5kg",
-   "fonteUrl": "https://www.atacadao.com.br/gelo-em-cubos-k-gelo-pacote-com-5kg-16997/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Gelo Pacote 5kg",
-   "preco": 1150,
-   "unidade": "Gelo Cubo Select 5kg",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/gelo-cubo-select-5kg",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Gin Rock's Strawberry 995ml",
-   "preco": 3590,
-   "unidade": "Gin Rock's Strawberry 1L",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Gin Rock's Strawberry 995ml",
-   "preco": 2599,
-   "unidade": "Gin Stramberry Rocks 995ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-stramberry-rocks-garrafa-995ml",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Gin Tanqueray 750ml",
-   "preco": 9490,
-   "unidade": "Gin Tanqueray 750ml",
-   "fonteUrl": "https://www.atacadao.com.br/gin-tanqueray-62989/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Gin Tanqueray 750ml",
-   "preco": 8990,
-   "unidade": "Gin Tanqueray London Dry 750 ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-tanqueray-london-dry-750ml-33099",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Guaraná Antarctica 2L",
-   "preco": 1019,
-   "unidade": "Refrigerante Guarana Antarctica 2L",
-   "fonteUrl": "https://www.atacadao.com.br/refrigerante-guarana-antarctica-19691/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Guaraná Antarctica 2L",
-   "preco": 949,
-   "unidade": "Refrigerante Guaraná Antarctica 2L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-2l-618",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Guaraná Antarctica Lata 350ml",
-   "preco": 359,
-   "unidade": "Refrigerante Guarana Antarctica 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/refrigerante-guarana-antarctica-12454/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Guaraná Antarctica Lata 350ml",
-   "preco": 349,
-   "unidade": "Refrigerante Guaraná Antarctica 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-350ml-1193",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Garrafa 600ml",
-   "preco": 1290,
-   "unidade": "Cerveja Heineken One Way 600ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-one-way-garrafa-com-600ml-45392/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Garrafa 600ml",
-   "preco": 1450,
-   "unidade": "Cerveja Heineken Garrafa 600ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-600ml",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 1350,
-   "atacadoMin": 3
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Lata 350ml",
-   "preco": 489,
-   "unidade": "Cerveja Heineken Sleek 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-sleek-86733/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Lata 350ml",
-   "preco": 520,
-   "unidade": "Cerveja Heineken Lata Sleek 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-lata-350ml",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Long Neck 330ml",
-   "preco": 699,
-   "unidade": "Cerveja Heineken 330ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-long-neck-com-330ml-54352/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Heineken Long Neck 330ml",
-   "preco": 715,
-   "unidade": "Cerveja Heineken Garrafa 330ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-330ml",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 665,
-   "atacadoMin": 6
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Itaipava Lata 350ml",
-   "preco": 249,
-   "unidade": "Cerveja Itaipava 350ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Itaipava Lata 350ml",
-   "preco": 279,
-   "unidade": "Cerveja Pilsen Itaipava 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-itaipava-350ml-1303",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Monster Energético 473ml",
-   "preco": 929,
-   "unidade": "Energetico Monster Energy 473ml",
-   "fonteUrl": "https://www.atacadao.com.br/energetico-monster-energy-57007/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Monster Energético 473ml",
-   "preco": 899,
-   "unidade": "Energético Monster Lata 473ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-energy-monster-473ml-20585",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 829,
-   "atacadoMin": 4
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Red Bull Energético 250ml",
-   "preco": 829,
-   "unidade": "Energetico Red Bull Energy Drink 250ml",
-   "fonteUrl": "https://www.atacadao.com.br/energetico-red-bull-energy-drink-46736/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Skol Lata 350ml",
-   "preco": 339,
-   "unidade": "Cerveja Skol Pilsen 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-skol-pilsen-18650/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Skol Lata 350ml",
-   "preco": 419,
-   "unidade": "Cerveja Pilsen Skol 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-skol-350ml-421",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 369,
-   "atacadoMin": 6
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Smirnoff Ice Long Neck 275ml",
-   "preco": 749,
-   "unidade": "Bebida Alcoolica Mista Smirnoff Ice Original 275ml",
-   "fonteUrl": "https://www.atacadao.com.br/bebida-alcoolica-mista-smirnoff-ice-60175/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Spaten Lata 350ml",
-   "preco": 389,
-   "unidade": "Cerveja Spaten Puro Malte 350ml",
-   "fonteUrl": "https://www.atacadao.com.br/cerveja-spaten-puro-malte-lata-com-350ml-74632/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Spaten Lata 350ml",
-   "preco": 489,
-   "unidade": "Cerveja Puro Malte Munich Helles Spaten Lata 350ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-puro-malte-munich-helles-spaten-lata-350ml",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Stella Artois Long Neck 330ml",
-   "preco": 659,
-   "unidade": "Cerveja Stella Artois 330ml",
-   "fonteUrl": "https://www.atacadao.com.br",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Stella Artois Long Neck 330ml",
-   "preco": 629,
-   "unidade": "Cerveja Stella Artois Puro Malte 330ml Long Neck",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-stella-artois-puro-malte-330ml-long-neck",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Suco Del Valle Lata 290ml",
-   "preco": 399,
-   "unidade": "Suco Del Valle 290ml (sabores variados)",
-   "fonteUrl": "https://www.atacadao.com.br/suco-del-valle-mais-uva-57855/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vinho Pérgola Tinto Suave 1L",
-   "preco": 2890,
-   "unidade": "Vinho Pergola Tinto Suave 1L",
-   "fonteUrl": "https://www.atacadao.com.br/vinho-tinto-pergola-suave-2645/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vinho Pérgola Tinto Suave 1L",
-   "preco": 2990,
-   "unidade": "Vinho Tinto Suave Pérgola 1L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/vinho-tinto-suave-pergola-1l-7543",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 2690,
-   "atacadoMin": 2
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vinho Quinta do Morgado Tinto Suave 750ml",
-   "preco": 1790,
-   "unidade": "Vinho Quinta do Morgado Tinto Suave 750ml",
-   "fonteUrl": "https://www.atacadao.com.br/vinho-quinta-do-morgado-tinto-suave-35295/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vodka Askov 900ml",
-   "preco": 1990,
-   "unidade": "Vodka Askov Tridestilada 900ml",
-   "fonteUrl": "https://www.atacadao.com.br/vodka-askov-tridestilada-53958/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vodka Askov 900ml",
-   "preco": 1990,
-   "unidade": "Vodka Askov 900ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-askov-900ml-2715",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 1790,
-   "atacadoMin": 2
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vodka Smirnoff 998ml",
-   "preco": 3290,
-   "unidade": "Vodka Smirnoff 998ml",
-   "fonteUrl": "https://www.atacadao.com.br/vodka-smirnoff-7823/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Vodka Smirnoff 998ml",
-   "preco": 3290,
-   "unidade": "Vodka Smirnoff 998ml",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-smirnoff-998ml-1755",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Whisky Passport 1L",
-   "preco": 5580,
-   "unidade": "Whisky Passport 1L",
-   "fonteUrl": "https://www.atacadao.com.br/whisky-passport-1778/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Whisky Passport 1L",
-   "preco": 4999,
-   "unidade": "Whisky Escocês Passport Scotch 1L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-passport-1l-132",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Whisky Red Label 1L",
-   "preco": 7990,
-   "unidade": "Whisky Johnnie Walker Red Label 1L",
-   "fonteUrl": "https://www.atacadao.com.br/whisky-johnnie-walker-red-label-garrafa-com-1l-3144/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Whisky Red Label 1L",
-   "preco": 7990,
-   "unidade": "Whisky Escocês Red Label Johnnie Walker 1L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-red-label-johnnie-walker-1l-417",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Atacadão (site, região de Cotia)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Whisky White Horse 1L",
-   "preco": 6980,
-   "unidade": "Whisky White Horse 1L",
-   "fonteUrl": "https://www.atacadao.com.br/whisky-white-horse-9078/p",
-   "cotadoEm": "2026-07-19"
-  },
-  {
-   "fornecedorNome": "Tenda Atacado (site, entrega na região)",
-   "fornecedorCidade": "Região (delivery)",
-   "produtoNome": "Whisky White Horse 1L",
-   "preco": 7990,
-   "unidade": "Whisky Escocês White Horse 1L",
-   "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-white-horse-1l-6385",
-   "cotadoEm": "2026-07-19",
-   "precoAtacado": 7490,
-   "atacadoMin": 2
-  }
- ]
+  "formato": "adegapdv-fornecedores-v1",
+  "versao": 5,
+  "dataVarredura": "2026-07-19",
+  "fornecedores": [
+    {
+      "nome": "Assaí Atacadista Cotia",
+      "cidade": "Cotia",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Estrada do Embu, 162, Jardim Torino",
+      "telefone": null,
+      "site": "https://www.assai.com.br/loja/assai-cotia",
+      "cnpj": null,
+      "obs": "Rede nacional; endereço confirmado no site oficial."
+    },
+    {
+      "nome": "Atacadão Cotia Centro",
+      "cidade": "Cotia",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Centro, Cotia",
+      "telefone": null,
+      "site": "https://www.atacadao.com.br/loja/cotia-centro",
+      "cnpj": null,
+      "obs": "Loja oficial da rede."
+    },
+    {
+      "nome": "Atacadão Cotia Raposo Km 21",
+      "cidade": "Cotia",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Rodovia Raposo Tavares, Km 21",
+      "telefone": null,
+      "site": "https://www.atacadao.com.br",
+      "cnpj": null,
+      "obs": "Loja oficial da rede."
+    },
+    {
+      "nome": "Roldão Atacadista Cotia",
+      "cidade": "Cotia",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://roldao.com.br/lojas/",
+      "cnpj": null,
+      "obs": "Confirmado por agregador de encartes; endereço não fechado."
+    },
+    {
+      "nome": "QD Distribuidora de Bebidas",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Philip Leiner, 100, Parque Alexandre",
+      "telefone": null,
+      "site": null,
+      "cnpj": "28.815.706/0001-20",
+      "obs": "CNPJ com endereço específico; fonte única."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Cotia LTDA",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "48.750.244/0001-18",
+      "obs": "Fundada em 1977 (quase 50 anos); endereço não confirmado."
+    },
+    {
+      "nome": "Distribuidora Cotia LTDA",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "28.124.594/0001-61",
+      "obs": "Empresa DIFERENTE da de 1977; só listagem de base de CNPJ."
+    },
+    {
+      "nome": "Distribuidora Mineirão",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.facebook.com/distribuidoramineirao1/",
+      "cnpj": null,
+      "obs": "Só presença em rede social."
+    },
+    {
+      "nome": "Flavors Distribuidora Bebidas",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": "Moinho Velho",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só diretório (GuiaMais)."
+    },
+    {
+      "nome": "Royal Bebidas",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Isaac Mario Pires, 3109, Caucaia do Alto",
+      "telefone": null,
+      "site": "https://siteroyalbebidas.com/",
+      "cnpj": null,
+      "obs": "Site próprio com delivery ativo; endereço claro."
+    },
+    {
+      "nome": "Atlantis Distribuidora de Bebidas",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rodovia Raposo Tavares, Granja Viana",
+      "telefone": null,
+      "site": null,
+      "cnpj": "00.616.709/0001-16",
+      "obs": "CNPJ com endereço; fonte única."
+    },
+    {
+      "nome": "Cia do Whisky (Empório M&L)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "09.640.611/0001-79",
+      "obs": "Desde 2008; especializada em whisky."
+    },
+    {
+      "nome": "Deli Distribuidora",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "42.843.616/0001-74",
+      "obs": "Só listagem de base de CNPJ."
+    },
+    {
+      "nome": "Tatiane Cilene de Freitas (Distribuidora)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "39.857.217/0001-58",
+      "obs": "MEI desde 2020; sem endereço confirmado."
+    },
+    {
+      "nome": "Distribuidora Cotia (Instagram)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/distribuidora_cotia/",
+      "cnpj": null,
+      "obs": "Pode ser um dos CNPJs acima; não foi possível confirmar qual."
+    },
+    {
+      "nome": "Allmix Distribuidora",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só menção no Instagram."
+    },
+    {
+      "nome": "Germânia Cotia (chope e locações)",
+      "cidade": "Cotia",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Nicho de chope e locação de equipamentos."
+    },
+    {
+      "nome": "LM Bebidas (Adega LM)",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Estrada do Lutero, 65, Paisagem Renoir",
+      "telefone": null,
+      "site": "https://www.instagram.com/adega_lm7/",
+      "cnpj": null,
+      "obs": "Endereço só numa fonte; cruzamento não confirmado."
+    },
+    {
+      "nome": "Distribuidor de Água Mineral",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "media",
+      "endereco": "Rua Ávila, 67, Parque Miguel Mirizola",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório com endereço específico; nicho de água."
+    },
+    {
+      "nome": "Biel Alemão Bebidas",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Recanto Arco Verde",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só diretório."
+    },
+    {
+      "nome": "Bar e Mercearia Tomé-Sou",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Jardim Araruama",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Parece bar/mercearia, não necessariamente atacadista."
+    },
+    {
+      "nome": "Esquadrão Bebidas (Lúpulo Azul)",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Jardim dos Ipês",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só diretório."
+    },
+    {
+      "nome": "Cachaça Calmaria",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Rua Bartolomeu Bueno da Silva, 69, São Paulo II",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Nicho de cachaça."
+    },
+    {
+      "nome": "Adega House Beer JP",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Jardim Sandra",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só diretório."
+    },
+    {
+      "nome": "Adega Rio Cotia",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só diretório."
+    },
+    {
+      "nome": "Adega Nova Cotia",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Jardim Dinorah",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só diretório."
+    },
+    {
+      "nome": "Adega Pununduva",
+      "cidade": "Cotia",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Pununduva",
+      "telefone": null,
+      "site": "https://meucomercio.com.br/adegapununduva",
+      "cnpj": null,
+      "obs": "Parece varejo; não fica claro se atende como fornecedor."
+    },
+    {
+      "nome": "Assaí Atacadista Barueri",
+      "cidade": "Barueri",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Mário Sadanori Doi, 479, Jardim dos Camargos",
+      "telefone": null,
+      "site": "https://www.assai.com.br",
+      "cnpj": null,
+      "obs": "Confirmado por site oficial + imprensa especializada."
+    },
+    {
+      "nome": "Solut Distribuidora de Bebidas",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Jardim Julio",
+      "telefone": "(11) 4326-6040",
+      "site": null,
+      "cnpj": "21.400.006/0001-26",
+      "obs": "Telefone e CNPJ consistentes em diretório."
+    },
+    {
+      "nome": "Cerville Distribuidora de Bebidas",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Alameda Mamoré, 535, Sala 209, Alphaville Industrial",
+      "telefone": "(11) 3666-0636",
+      "site": null,
+      "cnpj": "62.896.543/0001-96",
+      "obs": "Desde 1990; endereço e telefone confirmados em 2 fontes."
+    },
+    {
+      "nome": "Distribar Distribuidora de Bebidas",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Pirambóia, Jardim Santa Cecília",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Mesmo endereço em 3 diretórios distintos."
+    },
+    {
+      "nome": "B-Center Distribuidora de Bebidas",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua São Paulo, 356, Alphaville Empresarial",
+      "telefone": null,
+      "site": null,
+      "cnpj": "57.462.566/0001-52",
+      "obs": "Desde 1987; fonte única de CNPJ."
+    },
+    {
+      "nome": "M A S Distribuidora (Atacado e Varejo)",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Zélia, 258, Parque dos Camargos",
+      "telefone": null,
+      "site": null,
+      "cnpj": "43.760.298/0001-40",
+      "obs": "Desde 2021; CNPJ com endereço específico."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Teodoro",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Capitão Francisco Cezar, 1180, Vila Pindorama",
+      "telefone": null,
+      "site": null,
+      "cnpj": "00.674.541/0001-03",
+      "obs": "CNPJ com endereço; fonte única."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Barletta",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Antônio Chalupe, 71, Vila Boa Vista",
+      "telefone": null,
+      "site": null,
+      "cnpj": "49.716.905/0001-51",
+      "obs": "CNPJ com endereço; fonte única."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Canoas",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Maria Luiza, 75, Vila São Luiz",
+      "telefone": null,
+      "site": null,
+      "cnpj": "58.655.457/0001-14",
+      "obs": "Desde 1988; fonte única."
+    },
+    {
+      "nome": "Elevage Importadora e Distribuidora",
+      "cidade": "Barueri",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Andrômeda, 885, Sala 2805-B, Alphaville",
+      "telefone": null,
+      "site": null,
+      "cnpj": "33.279.427/0001-20",
+      "obs": "Foco em importação; endereço corporativo."
+    },
+    {
+      "nome": "Assaí Atacadista Itapevi",
+      "cidade": "Itapevi",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Rod. Eng. René Benedito da Silva, 849, São João",
+      "telefone": null,
+      "site": "https://www.assai.com.br/loja/assai-itapevi",
+      "cnpj": null,
+      "obs": "Site oficial + imprensa local."
+    },
+    {
+      "nome": "Atacadão Itapevi",
+      "cidade": "Itapevi",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Rod. Eng. René Benedito Silva, 965",
+      "telefone": "(11) 4621-2024",
+      "site": "https://www.atacadao.com.br/loja/itapevi",
+      "cnpj": null,
+      "obs": "Site oficial + diretórios com mesmo endereço/telefone."
+    },
+    {
+      "nome": "Roldão Atacadista Itapevi",
+      "cidade": "Itapevi",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Rod. Eng. René Benedito da Silva, 391, Setor D",
+      "telefone": null,
+      "site": "https://roldao.com.br/lojas/",
+      "cnpj": null,
+      "obs": "Confirmado por imprensa local e diretório."
+    },
+    {
+      "nome": "WM Distribuidora de Bebidas e Rações",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua Sarg. Antônio Vieira Noia, 23, Cidade da Saúde",
+      "telefone": "(11) 4789-4277",
+      "site": null,
+      "cnpj": "39.510.652/0001-01",
+      "obs": "Desde 2020; dados consistentes em 2 fontes."
+    },
+    {
+      "nome": "WS Comércio e Distribuidora de Bebidas",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua Cuba, 130, Jardim Santa Rita",
+      "telefone": null,
+      "site": null,
+      "cnpj": "49.998.838/0001-05",
+      "obs": "Desde 2023; dados consistentes em 2 fontes."
+    },
+    {
+      "nome": "Lopes Distribuidora de Bebidas",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Citada como uma das maiores da cidade; endereço não localizado."
+    },
+    {
+      "nome": "Xapadão Bebidas",
+      "cidade": "Itapevi",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/xapadaobebidas/",
+      "cnpj": null,
+      "obs": "Descrita como tradicional; só rede social."
+    },
+    {
+      "nome": "Indústria e Bebidas Ribeiro",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "52.325.939/0001-20",
+      "obs": "Desde 2023; fonte única."
+    },
+    {
+      "nome": "Bebidas Nude (filial Itapevi)",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Portugal, 1174, Itaqui",
+      "telefone": null,
+      "site": null,
+      "cnpj": "36.846.716/0003-13",
+      "obs": "Filial desde 2022; endereço específico."
+    },
+    {
+      "nome": "Grando Distribuidora",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": "Av. Portugal, 1174, Itaqui",
+      "telefone": null,
+      "site": null,
+      "cnpj": "51.329.438/0001-59",
+      "obs": "Mesmo endereço da Bebidas Nude (possível grupo ligado)."
+    },
+    {
+      "nome": "Vitória Distribuidora e Atacado",
+      "cidade": "Itapevi",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "55.172.527/0001-95",
+      "obs": "Cidade não confirmada no próprio registro."
+    },
+    {
+      "nome": "G.G. Comércio Varejista de Bebidas",
+      "cidade": "Itapevi",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "43.253.086/0001-77",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Assaí Atacadista Jandira",
+      "cidade": "Jandira",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Alziro Soares, 20, Pres. Wilson",
+      "telefone": "(11) 4772-1400",
+      "site": "https://www.assai.com.br/loja/assai-jandira",
+      "cnpj": null,
+      "obs": "Site oficial confirma endereço e telefone."
+    },
+    {
+      "nome": "Roldão Atacadista Jandira",
+      "cidade": "Jandira",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. João Vicente do Nascimento, 700, Pres. Wilson",
+      "telefone": null,
+      "site": "https://roldao.com.br/lojas/jandira/",
+      "cnpj": null,
+      "obs": "Site oficial da rede."
+    },
+    {
+      "nome": "Adega e Distribuidora Buscapé",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Fernando Pessoa, 1126",
+      "telefone": null,
+      "site": "https://www.facebook.com/adegabuscape/",
+      "cnpj": null,
+      "obs": "Endereço com referência local; confirmado em 2 buscas."
+    },
+    {
+      "nome": "Alemão Bebidas (Jandira)",
+      "cidade": "Jandira",
+      "tipo": "deposito",
+      "confianca": "media",
+      "endereco": "Rua José Longo, 260, Jardim Sagrado Coração",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório indica mais de 10 anos de atuação."
+    },
+    {
+      "nome": "Comercial e Distribuidora Benfica",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Elvira Simone Donega, 73, Jardim Brotinho",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório indica atuação desde 2002."
+    },
+    {
+      "nome": "BV Bonafont Distribuidora de Água",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Willian Wadell, 453, Centro",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Desde 2016 segundo diretório; nicho de água."
+    },
+    {
+      "nome": "JG Bebidas (Distribuidora JG)",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://distribuidorajg.com.br/",
+      "cnpj": null,
+      "obs": "Site próprio; sede provável em Osasco, atende a região."
+    },
+    {
+      "nome": "JJ Atacado",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/jj.atacado/",
+      "cnpj": null,
+      "obs": "Só Instagram; cidade não plenamente confirmada."
+    },
+    {
+      "nome": "R Limas Delivery de Bebidas",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua João Barbosa, 91, Centro",
+      "telefone": null,
+      "site": null,
+      "cnpj": "49.576.789/0001-12",
+      "obs": "Desde 2023; endereço específico; entrega."
+    },
+    {
+      "nome": "Adega e Distribuidora Barreto",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Jorge de Oliveira Prado, 23, Vila Santa Rosa",
+      "telefone": null,
+      "site": null,
+      "cnpj": "16.371.673/0001-98",
+      "obs": "Desde 2012; endereço específico."
+    },
+    {
+      "nome": "A D Comércio de Bebidas e Condimentos",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua José Pereira Possidônio, 200, Jardim Alvorada",
+      "telefone": null,
+      "site": null,
+      "cnpj": "08.457.474/0001-79",
+      "obs": "Atividade principal: atacado de bebidas."
+    },
+    {
+      "nome": "Adega TJ Comércio de Bebidas",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": "Rua Francisca Maria Bueno, 247, Jardim Gabriela I",
+      "telefone": null,
+      "site": null,
+      "cnpj": "59.249.204/0001-03",
+      "obs": "Empresa muito nova (02/2025); pouco histórico."
+    },
+    {
+      "nome": "JB Distribuidora de Bebidas (Jandira)",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "36.443.318/0001-94",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "JR Distribuidora de Água",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "32.985.470/0001-48",
+      "obs": "Nicho de água; fonte única."
+    },
+    {
+      "nome": "Real Distribuidora de Alimentos e Bebidas",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "31.912.489/0001-00",
+      "obs": "Cidade não confirmada no próprio registro."
+    },
+    {
+      "nome": "J J Distribuidora de Bebidas",
+      "cidade": "Jandira",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "01.927.195/0001-82",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Bruno Bebidas",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua Harold Loyd, 188, Centro",
+      "telefone": "(11) 93451-7607",
+      "site": "https://brunobebidas.com.br/",
+      "cnpj": "41.033.202/0001-17",
+      "obs": "Site + Instagram (9,6 mil seguidores) + CNPJ consistentes em 3 fontes."
+    },
+    {
+      "nome": "Adega Castro (Distribuidora Castro)",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "11ª Rua das Camareiras, 11, Jardim Europa",
+      "telefone": null,
+      "site": null,
+      "cnpj": "37.933.424/0001-19",
+      "obs": "Endereço e CNPJ consistentes em 2 fontes."
+    },
+    {
+      "nome": "Alex Depósito de Bebidas",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": "Estrada do Pacuí, 126",
+      "telefone": null,
+      "site": "https://www.instagram.com/alex_depositodebebidas/",
+      "cnpj": null,
+      "obs": "Só Instagram (972 seguidores)."
+    },
+    {
+      "nome": "MegaG Alimentos",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://megag.com.br",
+      "cnpj": null,
+      "obs": "CD de 46 mil m²; oferta de bebidas p/ pequeno varejo não confirmada."
+    },
+    {
+      "nome": "Efeum Bebidas",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Santa Bárbara, 186, Pq. Ind. Tijuco Preto",
+      "telefone": null,
+      "site": null,
+      "cnpj": "44.699.605/0001-98",
+      "obs": "Desde 2021; atacado de cerveja/chope/refrigerante."
+    },
+    {
+      "nome": "Distribuidora VGP",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "22.077.919/0001-16",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Nakao Bebidas",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "deposito",
+      "confianca": "media",
+      "endereco": "Rodovia Bunjiro Nakao, 45477",
+      "telefone": null,
+      "site": null,
+      "cnpj": "23.446.356/0001-59",
+      "obs": "Comércio varejista de bebidas; endereço específico."
+    },
+    {
+      "nome": "Cabecinha Gás",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "10.599.267/0001-09",
+      "obs": "Provável gás de cozinha; bebidas não confirmadas."
+    },
+    {
+      "nome": "O Barato da Vargem",
+      "cidade": "Vargem Grande Paulista",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "52.969.108/0001-90",
+      "obs": "Atividade exata não confirmada."
+    },
+    {
+      "nome": "Assaí Atacadista Novo Osasco",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Valter Bóveri, 501, Novo Osasco",
+      "telefone": null,
+      "site": "https://www.assai.com.br/loja/assai-osasco",
+      "cnpj": null,
+      "obs": "Site oficial."
+    },
+    {
+      "nome": "Assaí Atacadista Vila Yara",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. dos Autonomistas, 1687, Vila Yara",
+      "telefone": null,
+      "site": "https://www.assai.com.br",
+      "cnpj": null,
+      "obs": "Confirmado por imprensa especializada."
+    },
+    {
+      "nome": "Atacadão Osasco Centro (24h)",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Hilário Pereira de Souza, 588, Centro",
+      "telefone": null,
+      "site": "https://www.atacadao.com.br/loja/osasco",
+      "cnpj": null,
+      "obs": "Site oficial; funciona 24h."
+    },
+    {
+      "nome": "Atacadão Osasco Bonança",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Rua Constante Piovan, 1514, Bonança",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Confirmado por imprensa; sem página oficial própria."
+    },
+    {
+      "nome": "Roldão Atacadista Osasco (Quitaúna)",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Av. dos Autonomistas, Quitaúna",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Bairro na divisa com Carapicuíba; endereço parcial."
+    },
+    {
+      "nome": "Roldão Atacadista Osasco II (Aliança)",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Pres. Médici, 575, Aliança",
+      "telefone": null,
+      "site": "https://roldao.com.br/lojas/osasco-2/",
+      "cnpj": null,
+      "obs": "Site oficial da rede."
+    },
+    {
+      "nome": "Tenda Atacado Osasco (F. E. R. Esquivel)",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Av. Fábio Eduardo Ramos Esquivel, 3000",
+      "telefone": null,
+      "site": "https://www.tendaatacado.com.br",
+      "cnpj": null,
+      "obs": "Confirmado por agregador de encartes."
+    },
+    {
+      "nome": "Tenda Atacado Osasco (Salto de São José)",
+      "cidade": "Osasco",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Rodovia da Convenção, 760, Salto de São José",
+      "telefone": "(11) 2489-2922",
+      "site": "https://www.tendaatacado.com.br",
+      "cnpj": null,
+      "obs": "Diretório com telefone específico."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Ideal",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua João Ramalho, 300, Piratininga",
+      "telefone": null,
+      "site": null,
+      "cnpj": "03.324.722/0001-90",
+      "obs": "Desde 1999; citada como uma das maiores de Osasco."
+    },
+    {
+      "nome": "Botella Distribuidora de Bebidas",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua Vicente Rodrigues da Silva, 850, Piratininga",
+      "telefone": null,
+      "site": null,
+      "cnpj": "53.979.668/0001-99",
+      "obs": "Dados consistentes em 2 fontes."
+    },
+    {
+      "nome": "Guaporé Distribuidora",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Citada como das maiores; sem endereço/CNPJ confirmados."
+    },
+    {
+      "nome": "Central Osasco Distribuidora",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Av. Maria Campos, 190, Centro",
+      "telefone": "(11) 3652-5440",
+      "site": "https://centralosasco.com.br/",
+      "cnpj": "58.671.942/0001-81",
+      "obs": "Site próprio + diretório + CNPJ consistentes."
+    },
+    {
+      "nome": "Nossa Distribuidora",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.nossadistribuidorabebidas.com.br/",
+      "cnpj": null,
+      "obs": "Site + Instagram; vínculo exato de CNPJ não confirmado."
+    },
+    {
+      "nome": "Atacadão Bebidas (Rochdale)",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Brasil, 1585, Rochdale",
+      "telefone": null,
+      "site": "https://www.instagram.com/atacadaobebidasoficial/",
+      "cnpj": null,
+      "obs": "ATENÇÃO: não é a rede Atacadão; empresa independente."
+    },
+    {
+      "nome": "Pimentel Atacado de Bebidas",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Estrela, 61, Novo Osasco",
+      "telefone": "(11) 95761-5229",
+      "site": "https://www.instagram.com/pimentel_bebidas/",
+      "cnpj": null,
+      "obs": "Instagram 2,4 mil seguidores; 2 telefones específicos."
+    },
+    {
+      "nome": "Distribuidora MT",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Osvaldo Costa, 474, Vila Menck",
+      "telefone": null,
+      "site": null,
+      "cnpj": "49.720.083/0001-82",
+      "obs": "CNPJ com endereço específico; fonte única."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Ohanna",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "60.029.095/0001-06",
+      "obs": "Empresa muito nova (03/2025)."
+    },
+    {
+      "nome": "Distribuidora Pereira e Pereira",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "36.729.963/0001-78",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Beer Bel Distribuidora",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "00.595.721/0001-91",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "HSS Distribuidora (Smith)",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "23.943.433/0001-86",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "JG Bebidas (atende Osasco)",
+      "cidade": "Osasco",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://distribuidorajg.com.br/distribuidora-de-bebidas-em-osasco/",
+      "cnpj": null,
+      "obs": "Site menciona atendimento a Osasco; sede não confirmada."
+    },
+    {
+      "nome": "Assaí Atacadista Carapicuíba",
+      "cidade": "Carapicuíba",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Des. Dr. Eduardo Cunha de Abreu, 1455, Vila Municipal",
+      "telefone": "(11) 4189-9600",
+      "site": "https://www.assai.com.br/loja/assai-carapicuiba",
+      "cnpj": null,
+      "obs": "Site oficial confirma endereço e telefone."
+    },
+    {
+      "nome": "Tenda Atacado Carapicuíba",
+      "cidade": "Carapicuíba",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Av. Des. Dr. Eduardo Cunha de Abreu, 495, Vila Municipal",
+      "telefone": null,
+      "site": "https://www.tendaatacado.com.br",
+      "cnpj": null,
+      "obs": "Mesma avenida do Assaí; confirmado por agregador."
+    },
+    {
+      "nome": "Roldão Atacadista Carapicuíba",
+      "cidade": "Carapicuíba",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Av. dos Autonomistas, 46, Quitaúna",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Bairro limítrofe com Osasco; conferir município na visita."
+    },
+    {
+      "nome": "Atacadão Carapicuíba Km21",
+      "cidade": "Carapicuíba",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Estrada da Gabiroba, 750, Jardim Maria Rita",
+      "telefone": null,
+      "site": "https://www.atacadao.com.br/loja/carapicuiba",
+      "cnpj": null,
+      "obs": "Site oficial + diretório com mesmo endereço."
+    },
+    {
+      "nome": "Atacadão Carapicuíba Gopiúva",
+      "cidade": "Carapicuíba",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Bairro Gopiúva",
+      "telefone": null,
+      "site": "https://www.atacadao.com.br/loja/carapicuiba-gopiuva",
+      "cnpj": null,
+      "obs": "Segunda loja da rede na cidade (imprensa)."
+    },
+    {
+      "nome": "KW Drinks",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Citada como das maiores; sem endereço/CNPJ."
+    },
+    {
+      "nome": "Adega do Vila Distribuidora",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "55.287.081/0001-44",
+      "obs": "Citada como das maiores + CNPJ confirmado em base."
+    },
+    {
+      "nome": "Distribuidora de Bebidas da Vila II",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Citada como das maiores; sem dados localizados."
+    },
+    {
+      "nome": "LG Distribuidora de Bebidas",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. General Teixeira Lott, 310",
+      "telefone": "(11) 4184-8392",
+      "site": "https://www.facebook.com/lgbebidasdistribuidora/",
+      "cnpj": null,
+      "obs": "Facebook + diretório com telefone consistente; entrega grátis divulgada."
+    },
+    {
+      "nome": "Saluti Bebidas",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Com. Dante Carraro, 334, Cidade Ariston",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório com endereço e horário detalhados."
+    },
+    {
+      "nome": "Distribuidora Novo Rumo",
+      "cidade": "Carapicuíba",
+      "tipo": "deposito",
+      "confianca": "media",
+      "endereco": "Av. Victorio Fornazaro, 1471, Vila Sul Americana",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório indica mais de 9 anos de atuação."
+    },
+    {
+      "nome": "Distribuidora de Bebidas Império",
+      "cidade": "Carapicuíba",
+      "tipo": "deposito",
+      "confianca": "media",
+      "endereco": "Rua Ludovina Cruz Cintra, 2, Jardim Maria Beatriz",
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório indica atuação desde 2018."
+    },
+    {
+      "nome": "Brasileirão Atacado",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Eduardo Augusto Mesquita, 631, Pq. Santa Teresa",
+      "telefone": null,
+      "site": "https://brasileiraoatacado.com/",
+      "cnpj": null,
+      "obs": "Site próprio + Instagram com 174 mil seguidores."
+    },
+    {
+      "nome": "No Dek Distribuidora",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "49.341.634/0001-05",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "L A Distribuidora de Bebidas",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "18.358.343/0001-98",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Drive Beer Bar e Distribuidora",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "20.715.078/0001-08",
+      "obs": "Desde 2014; sem endereço confirmado."
+    },
+    {
+      "nome": "União Distribuidora de Bebidas e Alimentos",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "40.478.744/0001-30",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Adega e Distribuidora de Bebidas (Carapicuíba)",
+      "cidade": "Carapicuíba",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "42.789.778/0001-71",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Adega & Distribuidora Master",
+      "cidade": "Carapicuíba",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "29.798.673/0001-10",
+      "obs": "MEI; fonte única, sem endereço."
+    },
+    {
+      "nome": "SA Distribuidora de Doces, Bebidas e Alimentos",
+      "cidade": "Carapicuíba",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "16.837.513/0002-72",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Assaí Atacadista Embu das Artes",
+      "cidade": "Embu das Artes",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "Av. Elias Yazbek, 1183, Tingidor",
+      "telefone": "(11) 4778-9600",
+      "site": "https://www.assai.com.br",
+      "cnpj": null,
+      "obs": "Televendas (11) 4778-9601/9602; site oficial + imprensa."
+    },
+    {
+      "nome": "Atacadão Embu das Artes",
+      "cidade": "Embu das Artes",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": "Rua Itapeti, 136, Jardim Santo Eduardo",
+      "telefone": null,
+      "site": "https://www.atacadao.com.br",
+      "cnpj": null,
+      "obs": "Confirmado por diretório local."
+    },
+    {
+      "nome": "Vencedor Atacadista Embu das Artes",
+      "cidade": "Embu das Artes",
+      "tipo": "atacarejo",
+      "confianca": "media",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Rede regional; confirmado por imprensa especializada."
+    },
+    {
+      "nome": "Akki Atacadista Embu das Artes",
+      "cidade": "Embu das Artes",
+      "tipo": "atacarejo",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só menção em agregador de ofertas."
+    },
+    {
+      "nome": "Embuteko Distribuidora e Restaurante",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Rua Oiapoque, 454, Parque Pirajussara",
+      "telefone": "(11) 5169-8388",
+      "site": null,
+      "cnpj": null,
+      "obs": "Diretório indica mais de 35 anos de atuação."
+    },
+    {
+      "nome": "Dawe Distribuidora de Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua Nonoai, 63, Jardim da Luz",
+      "telefone": null,
+      "site": null,
+      "cnpj": "17.298.222/0001-35",
+      "obs": "Desde 2012; dados consistentes em 2 fontes."
+    },
+    {
+      "nome": "Spon Distribuidora de Bebidas S.A.",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua José Semião R. Agostinho, 1210, Água Espraiada",
+      "telefone": null,
+      "site": null,
+      "cnpj": "39.769.541/0001-14",
+      "obs": "Desde 2020; dados consistentes em 2 fontes."
+    },
+    {
+      "nome": "Sousa Atacado e Varejo de Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "alta",
+      "endereco": "Rua Augusto de A. Batista, 1974, Jardim São Vicente",
+      "telefone": null,
+      "site": null,
+      "cnpj": "45.118.894/0001-57",
+      "obs": "Desde 2022; confirmada em 3 fontes."
+    },
+    {
+      "nome": "Maresias Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. Rotary, 226, Box 01, Gramado",
+      "telefone": null,
+      "site": null,
+      "cnpj": "25.265.375/0001-04",
+      "obs": "Desde 2016; inclui fracionamento e envase."
+    },
+    {
+      "nome": "Urano Distribuidora de Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "44.016.198/0001-77",
+      "obs": "Desde 2021; sem endereço confirmado."
+    },
+    {
+      "nome": "Tegom Distribuidora de Bebidas e Alimentos",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "media",
+      "endereco": "Av. João Paulo I, 1322, Jardim Santa Bárbara",
+      "telefone": null,
+      "site": null,
+      "cnpj": "37.621.155/0001-55",
+      "obs": "Desde 2020; endereço específico."
+    },
+    {
+      "nome": "Marques Distribuidora de Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "43.239.966/0001-99",
+      "obs": "Fonte única, sem endereço."
+    },
+    {
+      "nome": "Forts Distribuidora",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": "48.596.066/0001-12",
+      "obs": "Nome genérico; bebidas não claramente indicadas."
+    },
+    {
+      "nome": "Atacado Soares",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/atacadosoares_tereza/",
+      "cnpj": null,
+      "obs": "Só Instagram; endereço não fechado."
+    },
+    {
+      "nome": "Atacado Máximo Embu",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só marcação de local no Instagram."
+    },
+    {
+      "nome": "RM's Distribuidora de Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Citada em listagem; sem dados localizados."
+    },
+    {
+      "nome": "Nascélio Distribuidora de Bebidas",
+      "cidade": "Embu das Artes",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Citada em listagem; sem dados localizados."
+    },
+    {
+      "nome": "São Paulo Atacado de Bebidas",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/saopauloatacadodebebidas/",
+      "cnpj": null,
+      "obs": "Atende a região por entrega; sede fora das 8 cidades."
+    },
+    {
+      "nome": "G2 Atacado de Bebidas",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/g2atacadodebebidas/",
+      "cnpj": null,
+      "obs": "Instagram com 144 mil seguidores; cidade não confirmada."
+    },
+    {
+      "nome": "Prince Atacadão das Bebidas",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/princeatacadaodasbebidas/",
+      "cnpj": null,
+      "obs": "Instagram com 58 mil seguidores; cidade não confirmada."
+    },
+    {
+      "nome": "Rei das Bebidas Atacado",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/rei_das_bebidas/",
+      "cnpj": null,
+      "obs": "Instagram com 34 mil seguidores; cidade não confirmada."
+    },
+    {
+      "nome": "Posto das Bebidas",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/postobebidas/",
+      "cnpj": null,
+      "obs": "Cidade não confirmada."
+    },
+    {
+      "nome": "Porto Bebidas Atacadão",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/portobebidasatacadao/",
+      "cnpj": null,
+      "obs": "Cidade não confirmada."
+    },
+    {
+      "nome": "Depósito Amorim",
+      "cidade": "Região (delivery)",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/depositoamorim71/",
+      "cnpj": null,
+      "obs": "Instagram com 11 mil seguidores; cidade não confirmada."
+    },
+    {
+      "nome": "Sul Mantiqueira Distribuidora",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/sulmantiqueiraatacado/",
+      "cnpj": null,
+      "obs": "Cidade não confirmada."
+    },
+    {
+      "nome": "JB Distribuidora de Bebidas (@bebidas.jb)",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/bebidas.jb/",
+      "cnpj": null,
+      "obs": "Cidade não confirmada."
+    },
+    {
+      "nome": "Atacadão da Bebida",
+      "cidade": "Região (delivery)",
+      "tipo": "distribuidora",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.instagram.com/atacadaodabebidaoficial/",
+      "cnpj": null,
+      "obs": "Não é a rede Atacadão; cidade não confirmada."
+    },
+    {
+      "nome": "Depósito de Bebidas São João",
+      "cidade": "Região (delivery)",
+      "tipo": "deposito",
+      "confianca": "baixa",
+      "endereco": null,
+      "telefone": null,
+      "site": null,
+      "cnpj": null,
+      "obs": "Só marcação de local no Instagram; cidade não confirmada."
+    },
+    {
+      "nome": "Tenda Atacado (site, entrega na região)",
+      "cidade": "Região (delivery)",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": "E-commerce oficial; lojas físicas em Osasco e Carapicuíba",
+      "telefone": null,
+      "site": "https://www.tendaatacado.com.br",
+      "cnpj": null,
+      "obs": "Preço público no site (informando o CEP); entrega ou Clique & Retire."
+    },
+    {
+      "nome": "Atacadão (site, região de Cotia)",
+      "cidade": "Região (delivery)",
+      "tipo": "atacarejo",
+      "confianca": "alta",
+      "endereco": null,
+      "telefone": null,
+      "site": "https://www.atacadao.com.br",
+      "cnpj": null,
+      "obs": "Preços do site para o CEP da adega (lojas Cotia Centro, Cotia Raposo Km 21, Jandira, Barueri e Itapevi). Confira no balcão antes de fechar."
+    }
+  ],
+  "cotacoes": [
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "51 Ice Long Neck 275ml",
+      "preco": 499,
+      "unidade": "Bebida 51 Ice 275ml (sabores variados)",
+      "fonteUrl": "https://www.atacadao.com.br/bebida-51-ice-limao-54737/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Água Mineral com Gás 500ml",
+      "preco": 219,
+      "unidade": "Agua Mineral Crystal Com gas 500ml",
+      "fonteUrl": "https://www.atacadao.com.br/agua-mineral-crystal-com-gas-30723/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Água Mineral com Gás 500ml",
+      "preco": 215,
+      "unidade": "Água Mineral com Gás Crystal 500ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-com-gas-crystal-500ml-6988",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 195,
+      "atacadoMin": 6
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Água Mineral sem Gás 500ml",
+      "preco": 219,
+      "unidade": "Agua Mineral Crystal Sem gas 500ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Água Mineral sem Gás 500ml",
+      "preco": 215,
+      "unidade": "Água Mineral sem Gás Crystal 500ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-mineral-sem-gas-crystal-500ml-3214",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 195,
+      "atacadoMin": 6
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Água Tônica Antarctica Lata 350ml",
+      "preco": 369,
+      "unidade": "Agua Tonica Antarctica 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/agua-tonica-antarctica-12440/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Água Tônica Antarctica Lata 350ml",
+      "preco": 349,
+      "unidade": "Água Tônica Antarctica 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/agua-tonica-antarctica-350ml-616",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Amstel Lata 350ml",
+      "preco": 369,
+      "unidade": "Cerveja Amstel Sleek 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-amstel-sleek-86708/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Amstel Lata 350ml",
+      "preco": 409,
+      "unidade": "Cerveja Amstel Lata 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-amstel-lata-350ml",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 359,
+      "atacadoMin": 6
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Antarctica Original Garrafa 600ml",
+      "preco": 1099,
+      "unidade": "Cerveja Pilsen Original Antarctica 600ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-antarctica-original-600ml-3459",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 999,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Antarctica Pilsen Lata 350ml",
+      "preco": 329,
+      "unidade": "Cerveja Antarctica 350ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Antarctica Pilsen Lata 350ml",
+      "preco": 319,
+      "unidade": "Cerveja Pilsen Antarctica Lata 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-antarctica-pilsen-350ml-lata",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Baly Energético 2L",
+      "preco": 1190,
+      "unidade": "Energetico Baly Tradicional 2L",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Baly Energético 2L",
+      "preco": 999,
+      "unidade": "Energético Melancia Baly 2L",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-melancia-baly-2l",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Brahma Chopp Lata 350ml",
+      "preco": 329,
+      "unidade": "Cerveja Brahma Chopp 350ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Brahma Chopp Lata 350ml",
+      "preco": 369,
+      "unidade": "Cerveja Brahma Chopp Pilsen 350ml Lata",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-chopp-pilsen-350ml-lata",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Brahma Duplo Malte Lata 350ml",
+      "preco": 426,
+      "unidade": "Cerveja Brahma Duplo Malte 350ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Brahma Duplo Malte Lata 350ml",
+      "preco": 449,
+      "unidade": "Cerveja Brahma Duplo Malte Puro Malte 350ml Lata",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-brahma-duplo-malte-puro-malte-350ml-lata",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Brahma Malzbier Lata 350ml",
+      "preco": 559,
+      "unidade": "Cerveja Brahma Malzbier 350ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Brahma Malzbier Lata 350ml",
+      "preco": 569,
+      "unidade": "Cerveja Escura Malzbier Brahma 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-escura-malzbier-brahma-350ml",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 519,
+      "atacadoMin": 6
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Budweiser Long Neck 330ml",
+      "preco": 649,
+      "unidade": "Cerveja Budweiser 330ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-budweiser-62237/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Budweiser Long Neck 330ml",
+      "preco": 619,
+      "unidade": "Cerveja Budweiser American Lager 330ml Long Neck",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-budweiser-american-lager-330ml-long-neck",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Cachaça 51 965ml",
+      "preco": 1390,
+      "unidade": "Cachaca 51 Com casco 965ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Cachaça 51 965ml",
+      "preco": 1285,
+      "unidade": "Aguardente 51 Pirassununga 965ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-51-pirassununga-965ml-236",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 1185,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Cachaça Pitú 970ml",
+      "preco": 1099,
+      "unidade": "Cachaca Pitu Com casco 965ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Cachaça Pitú 970ml",
+      "preco": 1530,
+      "unidade": "Aguardente Pitú 965ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-pitu-965ml-33395",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 1430,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Cachaça Velho Barreiro 910ml",
+      "preco": 1590,
+      "unidade": "Cachaca Velho Barreiro 910ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Cachaça Velho Barreiro 910ml",
+      "preco": 1570,
+      "unidade": "Aguardente Velho Barreiro 910ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/aguardente-aguardente-velho-barreiro-910ml-1254",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 1470,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Coca-Cola 2L",
+      "preco": 1229,
+      "unidade": "Refrigerante Coca-Cola 2L",
+      "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-pet-com-2l-12380/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Coca-Cola 2L",
+      "preco": 1190,
+      "unidade": "Refrigerante Original Menos Açúcar Coca-Cola Garrafa 2l",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-original-garrafa-2l",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Coca-Cola 600ml",
+      "preco": 457,
+      "unidade": "Refrigerante Coca-Cola Original 600ml",
+      "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-original-6674/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Coca-Cola 600ml",
+      "preco": 619,
+      "unidade": "Refrigerante Coca-Cola Original Garrafa 600ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-600ml-947",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 569,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Coca-Cola Lata 350ml",
+      "preco": 419,
+      "unidade": "Refrigerante Coca-Cola 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/refrigerante-coca-cola-lata-com-350ml-7699/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Coca-Cola Lata 350ml",
+      "preco": 419,
+      "unidade": "Refrigerante Coca-Cola 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-coca-cola-350ml-552",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Conhaque Dreher 900ml",
+      "preco": 1890,
+      "unidade": "Conhaque Dreher 900ml",
+      "fonteUrl": "https://www.atacadao.com.br/conhaque-dreher-2417/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Conhaque Dreher 900ml",
+      "preco": 1950,
+      "unidade": "Conhaque Dreher 900ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/conhaque-dreher-900ml-802",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 1750,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corona Extra Long Neck 330ml",
+      "preco": 729,
+      "unidade": "Cerveja Corona Extra 330ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-corona-extra-66884/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corona Extra Long Neck 330ml",
+      "preco": 749,
+      "unidade": "Cerveja Corona Extra 330ml Long Neck",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-corona-extra-330ml-long-neck",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corote Limão 500ml",
+      "preco": 399,
+      "unidade": "Coquetel Corote Limao 500ml",
+      "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-limao-60084/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corote Limão 500ml",
+      "preco": 415,
+      "unidade": "Coquetel Sabor Limão Corote 500ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-limao-corote-500ml-10819",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 365,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corote Maracujá 500ml",
+      "preco": 399,
+      "unidade": "Coquetel Corote Maracuja 500ml",
+      "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-maracuja-60083/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corote Maracujá 500ml",
+      "preco": 415,
+      "unidade": "Coquetel Sabor Maracujá Corote 500ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-maracuja-corote-500ml-20320",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 365,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corote Morango 500ml",
+      "preco": 399,
+      "unidade": "Coquetel Corote Morango 500ml",
+      "fonteUrl": "https://www.atacadao.com.br/coquetel-corote-morango-57941/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Corote Morango 500ml",
+      "preco": 415,
+      "unidade": "Coquetel Sabor Morango Corote 500ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/coquetel-sabor-morango-corote-500ml-10831",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 365,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Crystal Lata 350ml",
+      "preco": 219,
+      "unidade": "Cerveja Pilsen Crystal 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-crystal-350ml-2453",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Fanta Laranja 2L",
+      "preco": 990,
+      "unidade": "Refrigerante Fanta Laranja 2L",
+      "fonteUrl": "https://www.atacadao.com.br/refrigerante-fanta-laranja-12588/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Fanta Laranja 2L",
+      "preco": 949,
+      "unidade": "Refrigerante Laranja Fanta Garrafa 2l",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-sabor-laranja-fanta-2l-322",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Gelo Pacote 5kg",
+      "preco": 1190,
+      "unidade": "Gelo em Cubos K-Gelo 5kg",
+      "fonteUrl": "https://www.atacadao.com.br/gelo-em-cubos-k-gelo-pacote-com-5kg-16997/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Gelo Pacote 5kg",
+      "preco": 1150,
+      "unidade": "Gelo Cubo Select 5kg",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/gelo-cubo-select-5kg",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Gin Rock's Strawberry 995ml",
+      "preco": 3590,
+      "unidade": "Gin Rock's Strawberry 1L",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Gin Rock's Strawberry 995ml",
+      "preco": 2599,
+      "unidade": "Gin Stramberry Rocks 995ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-stramberry-rocks-garrafa-995ml",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Gin Tanqueray 750ml",
+      "preco": 9490,
+      "unidade": "Gin Tanqueray 750ml",
+      "fonteUrl": "https://www.atacadao.com.br/gin-tanqueray-62989/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Gin Tanqueray 750ml",
+      "preco": 8990,
+      "unidade": "Gin Tanqueray London Dry 750 ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/gin-tanqueray-london-dry-750ml-33099",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Guaraná Antarctica 2L",
+      "preco": 1019,
+      "unidade": "Refrigerante Guarana Antarctica 2L",
+      "fonteUrl": "https://www.atacadao.com.br/refrigerante-guarana-antarctica-19691/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Guaraná Antarctica 2L",
+      "preco": 949,
+      "unidade": "Refrigerante Guaraná Antarctica 2L",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-2l-618",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Guaraná Antarctica Lata 350ml",
+      "preco": 359,
+      "unidade": "Refrigerante Guarana Antarctica 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/refrigerante-guarana-antarctica-12454/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Guaraná Antarctica Lata 350ml",
+      "preco": 349,
+      "unidade": "Refrigerante Guaraná Antarctica 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/refrigerante-guarana-antarctica-350ml-1193",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Heineken Garrafa 600ml",
+      "preco": 1290,
+      "unidade": "Cerveja Heineken One Way 600ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-one-way-garrafa-com-600ml-45392/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Heineken Garrafa 600ml",
+      "preco": 1450,
+      "unidade": "Cerveja Heineken Garrafa 600ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-600ml",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 1350,
+      "atacadoMin": 3
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Heineken Lata 350ml",
+      "preco": 489,
+      "unidade": "Cerveja Heineken Sleek 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-sleek-86733/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Heineken Lata 350ml",
+      "preco": 520,
+      "unidade": "Cerveja Heineken Lata Sleek 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-lata-350ml",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Heineken Long Neck 330ml",
+      "preco": 699,
+      "unidade": "Cerveja Heineken 330ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-heineken-long-neck-com-330ml-54352/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Heineken Long Neck 330ml",
+      "preco": 715,
+      "unidade": "Cerveja Heineken Garrafa 330ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-heineken-garrafa-330ml",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 665,
+      "atacadoMin": 6
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Itaipava Lata 350ml",
+      "preco": 249,
+      "unidade": "Cerveja Itaipava 350ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Itaipava Lata 350ml",
+      "preco": 279,
+      "unidade": "Cerveja Pilsen Itaipava 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-itaipava-350ml-1303",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Monster Energético 473ml",
+      "preco": 929,
+      "unidade": "Energetico Monster Energy 473ml",
+      "fonteUrl": "https://www.atacadao.com.br/energetico-monster-energy-57007/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Monster Energético 473ml",
+      "preco": 899,
+      "unidade": "Energético Monster Lata 473ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/energetico-energy-monster-473ml-20585",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 829,
+      "atacadoMin": 4
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Red Bull Energético 250ml",
+      "preco": 829,
+      "unidade": "Energetico Red Bull Energy Drink 250ml",
+      "fonteUrl": "https://www.atacadao.com.br/energetico-red-bull-energy-drink-46736/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Skol Lata 350ml",
+      "preco": 339,
+      "unidade": "Cerveja Skol Pilsen 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-skol-pilsen-18650/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Skol Lata 350ml",
+      "preco": 419,
+      "unidade": "Cerveja Pilsen Skol 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-pilsen-skol-350ml-421",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 369,
+      "atacadoMin": 6
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Smirnoff Ice Long Neck 275ml",
+      "preco": 749,
+      "unidade": "Bebida Alcoolica Mista Smirnoff Ice Original 275ml",
+      "fonteUrl": "https://www.atacadao.com.br/bebida-alcoolica-mista-smirnoff-ice-60175/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Spaten Lata 350ml",
+      "preco": 389,
+      "unidade": "Cerveja Spaten Puro Malte 350ml",
+      "fonteUrl": "https://www.atacadao.com.br/cerveja-spaten-puro-malte-lata-com-350ml-74632/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Spaten Lata 350ml",
+      "preco": 489,
+      "unidade": "Cerveja Puro Malte Munich Helles Spaten Lata 350ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-puro-malte-munich-helles-spaten-lata-350ml",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Stella Artois Long Neck 330ml",
+      "preco": 659,
+      "unidade": "Cerveja Stella Artois 330ml",
+      "fonteUrl": "https://www.atacadao.com.br",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Stella Artois Long Neck 330ml",
+      "preco": 629,
+      "unidade": "Cerveja Stella Artois Puro Malte 330ml Long Neck",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/cerveja-stella-artois-puro-malte-330ml-long-neck",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Suco Del Valle Lata 290ml",
+      "preco": 399,
+      "unidade": "Suco Del Valle 290ml (sabores variados)",
+      "fonteUrl": "https://www.atacadao.com.br/suco-del-valle-mais-uva-57855/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vinho Pérgola Tinto Suave 1L",
+      "preco": 2890,
+      "unidade": "Vinho Pergola Tinto Suave 1L",
+      "fonteUrl": "https://www.atacadao.com.br/vinho-tinto-pergola-suave-2645/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vinho Pérgola Tinto Suave 1L",
+      "preco": 2990,
+      "unidade": "Vinho Tinto Suave Pérgola 1L",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/vinho-tinto-suave-pergola-1l-7543",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 2690,
+      "atacadoMin": 2
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vinho Quinta do Morgado Tinto Suave 750ml",
+      "preco": 1790,
+      "unidade": "Vinho Quinta do Morgado Tinto Suave 750ml",
+      "fonteUrl": "https://www.atacadao.com.br/vinho-quinta-do-morgado-tinto-suave-35295/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vodka Askov 900ml",
+      "preco": 1990,
+      "unidade": "Vodka Askov Tridestilada 900ml",
+      "fonteUrl": "https://www.atacadao.com.br/vodka-askov-tridestilada-53958/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vodka Askov 900ml",
+      "preco": 1990,
+      "unidade": "Vodka Askov 900ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-askov-900ml-2715",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 1790,
+      "atacadoMin": 2
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vodka Smirnoff 998ml",
+      "preco": 3290,
+      "unidade": "Vodka Smirnoff 998ml",
+      "fonteUrl": "https://www.atacadao.com.br/vodka-smirnoff-7823/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Vodka Smirnoff 998ml",
+      "preco": 3290,
+      "unidade": "Vodka Smirnoff 998ml",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/vodka-smirnoff-998ml-1755",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Whisky Passport 1L",
+      "preco": 5580,
+      "unidade": "Whisky Passport 1L",
+      "fonteUrl": "https://www.atacadao.com.br/whisky-passport-1778/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Whisky Passport 1L",
+      "preco": 4999,
+      "unidade": "Whisky Escocês Passport Scotch 1L",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-passport-1l-132",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Whisky Red Label 1L",
+      "preco": 7990,
+      "unidade": "Whisky Johnnie Walker Red Label 1L",
+      "fonteUrl": "https://www.atacadao.com.br/whisky-johnnie-walker-red-label-garrafa-com-1l-3144/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Whisky Red Label 1L",
+      "preco": 7990,
+      "unidade": "Whisky Escocês Red Label Johnnie Walker 1L",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-red-label-johnnie-walker-1l-417",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Atacadão (site, região de Cotia)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Whisky White Horse 1L",
+      "preco": 6980,
+      "unidade": "Whisky White Horse 1L",
+      "fonteUrl": "https://www.atacadao.com.br/whisky-white-horse-9078/p",
+      "cotadoEm": "2026-07-19"
+    },
+    {
+      "fornecedorNome": "Tenda Atacado (site, entrega na região)",
+      "fornecedorCidade": "Região (delivery)",
+      "produtoNome": "Whisky White Horse 1L",
+      "preco": 7990,
+      "unidade": "Whisky Escocês White Horse 1L",
+      "fonteUrl": "https://www.tendaatacado.com.br/produto/whisky-escoces-white-horse-1l-6385",
+      "cotadoEm": "2026-07-19",
+      "precoAtacado": 7490,
+      "atacadoMin": 2
+    }
+  ],
+  "eans": [
+    {
+      "produtoNome": "51 Ice Long Neck 275ml",
+      "ean": "7896002110419",
+      "nomeFonte": "Bebida 51 Ice Limão 275ml"
+    },
+    {
+      "produtoNome": "Água Mineral com Gás 500ml",
+      "ean": "7898222290049",
+      "nomeFonte": "Água Mineral Crystal Com gás 500ml"
+    },
+    {
+      "produtoNome": "Água Mineral sem Gás 500ml",
+      "ean": "7894900530001",
+      "nomeFonte": "Água Mineral Crystal Sem gás 500ml"
+    },
+    {
+      "produtoNome": "Água Tônica Antarctica Lata 350ml",
+      "ean": "7891991000840",
+      "nomeFonte": "Água Tônica Antarctica 350ml"
+    },
+    {
+      "produtoNome": "Amstel Lata 350ml",
+      "ean": "7896045506934",
+      "nomeFonte": "Cerveja Amstel Sleek 350ml"
+    },
+    {
+      "produtoNome": "Baly Energético 2L",
+      "ean": "7898080662668",
+      "nomeFonte": "Energético Baly Tradicional 2L"
+    },
+    {
+      "produtoNome": "Brahma Chopp Lata 350ml",
+      "ean": "7891149010509",
+      "nomeFonte": "Cerveja Brahma Chopp 350ml"
+    },
+    {
+      "produtoNome": "Brahma Duplo Malte Lata 350ml",
+      "ean": "7891991294942",
+      "nomeFonte": "Cerveja Brahma Duplo Malte 350ml"
+    },
+    {
+      "produtoNome": "Brahma Malzbier Lata 350ml",
+      "ean": "7891149101528",
+      "nomeFonte": "Cerveja Brahma Malzbier 350ml"
+    },
+    {
+      "produtoNome": "Budweiser Long Neck 330ml",
+      "ean": "7891991014762",
+      "nomeFonte": "Cerveja Budweiser 330ml"
+    },
+    {
+      "produtoNome": "Cachaça 51 965ml",
+      "ean": "7896002100014",
+      "nomeFonte": "Cachaça 51 Com casco 965ml"
+    },
+    {
+      "produtoNome": "Cachaça Velho Barreiro 910ml",
+      "ean": "7896050200124",
+      "nomeFonte": "Cachaça Velho Barreiro 910ml"
+    },
+    {
+      "produtoNome": "Coca-Cola 2L",
+      "ean": "7894900011517",
+      "nomeFonte": "Refrigerante Coca-Cola 2L"
+    },
+    {
+      "produtoNome": "Coca-Cola 600ml",
+      "ean": "7894900011609",
+      "nomeFonte": "Refrigerante Coca-Cola Original 600ml"
+    },
+    {
+      "produtoNome": "Coca-Cola Lata 350ml",
+      "ean": "7894900010015",
+      "nomeFonte": "Refrigerante Coca-Cola 350ml"
+    },
+    {
+      "produtoNome": "Conhaque Dreher 900ml",
+      "ean": "7896010006360",
+      "nomeFonte": "Conhaque Dreher 900ml"
+    },
+    {
+      "produtoNome": "Corona Extra Long Neck 330ml",
+      "ean": "7891149108718",
+      "nomeFonte": "Cerveja Corona Extra 330ml"
+    },
+    {
+      "produtoNome": "Corote Limão 500ml",
+      "ean": "7896547501178",
+      "nomeFonte": "Coquetel Corote Limão 500ml"
+    },
+    {
+      "produtoNome": "Corote Maracujá 500ml",
+      "ean": "7896547501260",
+      "nomeFonte": "Coquetel Corote Maracujá 500ml"
+    },
+    {
+      "produtoNome": "Corote Morango 500ml",
+      "ean": "7896547501154",
+      "nomeFonte": "Coquetel Corote Morango 500ml"
+    },
+    {
+      "produtoNome": "Fanta Laranja 2L",
+      "ean": "7894900031515",
+      "nomeFonte": "Refrigerante Fanta Laranja 2L"
+    },
+    {
+      "produtoNome": "Gin Tanqueray 750ml",
+      "ean": "5000291020706",
+      "nomeFonte": "Gin Tanqueray 750ml"
+    },
+    {
+      "produtoNome": "Guaraná Antarctica 2L",
+      "ean": "7891991001342",
+      "nomeFonte": "Refrigerante Guaraná Antarctica 2L"
+    },
+    {
+      "produtoNome": "Guaraná Antarctica Lata 350ml",
+      "ean": "7891991000826",
+      "nomeFonte": "Refrigerante Guaraná Antarctica 350ml"
+    },
+    {
+      "produtoNome": "Heineken Garrafa 600ml",
+      "ean": "78905498",
+      "nomeFonte": "Cerveja Heineken One Way 600ml"
+    },
+    {
+      "produtoNome": "Heineken Lata 350ml",
+      "ean": "7896045506873",
+      "nomeFonte": "Cerveja Heineken Sleek 350ml"
+    },
+    {
+      "produtoNome": "Heineken Long Neck 330ml",
+      "ean": "7896045506538",
+      "nomeFonte": "Cerveja Heineken 330ml"
+    },
+    {
+      "produtoNome": "Itaipava Lata 350ml",
+      "ean": "7897395020101",
+      "nomeFonte": "Cerveja Itaipava 350ml"
+    },
+    {
+      "produtoNome": "Monster Energético 473ml",
+      "ean": "70847022015",
+      "nomeFonte": "Energético Monster Energy 473ml"
+    },
+    {
+      "produtoNome": "Red Bull Energético 250ml",
+      "ean": "611269991000",
+      "nomeFonte": "Energético Red Bull Energy Drink 250ml"
+    },
+    {
+      "produtoNome": "Skol Lata 350ml",
+      "ean": "7891149200504",
+      "nomeFonte": "Cerveja Skol Pilsen 350ml"
+    },
+    {
+      "produtoNome": "Smirnoff Ice Long Neck 275ml",
+      "ean": "7893218000107",
+      "nomeFonte": "Bebida Alcoólica Mista Smirnoff Ice Original 275ml"
+    },
+    {
+      "produtoNome": "Spaten Lata 350ml",
+      "ean": "7891991297424",
+      "nomeFonte": "Cerveja Spaten Puro Malte 350ml"
+    },
+    {
+      "produtoNome": "Stella Artois Long Neck 330ml",
+      "ean": "7891991015462",
+      "nomeFonte": "Cerveja Stella Artois 330ml"
+    },
+    {
+      "produtoNome": "Suco Del Valle Lata 290ml",
+      "ean": "7894900660333",
+      "nomeFonte": "Suco Del Valle Mais Uva 290ml"
+    },
+    {
+      "produtoNome": "Vinho Pérgola Tinto Suave 1L",
+      "ean": "7896855901417",
+      "nomeFonte": "Vinho Pérgola Tinto Suave 1L"
+    },
+    {
+      "produtoNome": "Vinho Quinta do Morgado Tinto Suave 750ml",
+      "ean": "7896037913146",
+      "nomeFonte": "Vinho Quinta do Morgado Tinto Suave 750ml"
+    },
+    {
+      "produtoNome": "Vodka Askov 900ml",
+      "ean": "7896092502453",
+      "nomeFonte": "Vodka Askov Tridestilada 900ml"
+    },
+    {
+      "produtoNome": "Vodka Smirnoff 998ml",
+      "ean": "7893218000473",
+      "nomeFonte": "Vodka Smirnoff 998ml"
+    },
+    {
+      "produtoNome": "Whisky Passport 1L",
+      "ean": "7891050000101",
+      "nomeFonte": "Whisky Passport 1L"
+    },
+    {
+      "produtoNome": "Whisky Red Label 1L",
+      "ean": "5000267013602",
+      "nomeFonte": "Whisky Johnnie Walker Red Label 1L"
+    },
+    {
+      "produtoNome": "Whisky White Horse 1L",
+      "ean": "5000265090056",
+      "nomeFonte": "Whisky White Horse 1L"
+    }
+  ],
+  "atualizadoEm": "2026-07-20"
 }
